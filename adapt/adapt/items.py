@@ -7,6 +7,6 @@ import scrapy
 
 
 class AdaptItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    company_name = scrapy.Field()
+    source_url = scrapy.Field()
+    tag = scrapy.Field()
