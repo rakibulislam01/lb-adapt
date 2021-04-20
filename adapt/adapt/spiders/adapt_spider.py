@@ -1,9 +1,9 @@
 import scrapy
-from ..items import AdaptItem
+from ..items import CompanyIndexItem
 
 
 class AdaptSpider(scrapy.Spider):
-    name = "adapt"
+    name = "company_index"
     download_delay = 5
 
     def start_requests(self):
@@ -14,6 +14,7 @@ class AdaptSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
+        # collect all company link alphabetically from [A-Z]
         company_source = response.css('.DirectoryTopInfo_linkItemWrapper__2MyQQ a')
         for source in company_source:
             source_url = source.css('::attr(href)').extract_first()
@@ -23,7 +24,7 @@ class AdaptSpider(scrapy.Spider):
         company_list = []
         company_source = response.css('.DirectoryList_linkItemWrapper__3F2UE a')
         for source in company_source:
-            company = AdaptItem()
+            company = CompanyIndexItem()
 
             company_name = source.css('::text').extract_first()
             source_url = source.css('::attr(href)').extract_first()
@@ -36,6 +37,7 @@ class AdaptSpider(scrapy.Spider):
             }
             company_list.append(company_info)
             yield company
+        # Collect all company link from each alphabet
         next_page = response.css('.undefined ::attr(href)').extract_first()
         if next_page:
             # yield scrapy.Request(url=next_page, callback=self.parse)

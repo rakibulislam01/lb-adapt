@@ -1,0 +1,2944 @@
+[
+    {
+        "Company_name":"Argosy Communication Products Ltd.",
+        "Company_location":"Victoria, BC, Canada",
+        "Company_website":"http://www.acpltd.ca",
+        "Company_webdomain":"acpltd.ca",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"0 - 25",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Gerry Wight",
+                "contact_jobtitle":"Director of Sales",
+                "contact_email_domain":"@acpltd.ca",
+                "contact_department":"Director of Sales"
+            }
+        ]
+    },
+    {
+        "Company_name":"Access Point, Inc.",
+        "Company_location":"Cary,  North Carolina, United States",
+        "Company_website":"http://www.gtt.net",
+        "Company_webdomain":"gtt.net",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":"$10 - 50M",
+        "contact_details":[
+            {
+                "contact_name":"Candice Lane",
+                "contact_jobtitle":"Order Assurance Specialist",
+                "contact_email_domain":"@accesspointinc.com",
+                "contact_department":"Order Assurance Specialist"
+            },
+            {
+                "contact_name":"Jack Erdman",
+                "contact_jobtitle":"Credit and Collections Manager",
+                "contact_email_domain":"@accesspointinc.com",
+                "contact_department":"Credit and Collections Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"Access Vermont",
+        "Company_location":"Hinesburg,  Vermont, United States",
+        "Company_website":"http://www.gmavt.net",
+        "Company_webdomain":"gmavt.net",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"0 - 25",
+        "Company_revenue":"$0 - 1M",
+        "contact_details":[
+            {
+                "contact_name":"Spencer Harris",
+                "contact_jobtitle":"Septic Consultant",
+                "contact_email_domain":"@accessvt.com",
+                "contact_department":"Septic Consultant"
+            },
+            {
+                "contact_name":"Dennis Curran",
+                "contact_jobtitle":"Photographer",
+                "contact_email_domain":"@accessvt.com",
+                "contact_department":"Photographer"
+            },
+            {
+                "contact_name":"Pidgeon David",
+                "contact_jobtitle":"Webmaster",
+                "contact_email_domain":"@accessvt.com",
+                "contact_department":"Webmaster"
+            },
+            {
+                "contact_name":"Judy Corey",
+                "contact_jobtitle":"Treasurer",
+                "contact_email_domain":"@accessvt.com",
+                "contact_department":"Treasurer"
+            },
+            {
+                "contact_name":"Gary Grzywna",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@accessvt.com",
+                "contact_department":"President"
+            },
+            {
+                "contact_name":"Gary Grzywna",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@accessvt.com",
+                "contact_department":"President"
+            },
+            {
+                "contact_name":"Don Morin",
+                "contact_jobtitle":"Owner",
+                "contact_email_domain":"@accessvt.com",
+                "contact_department":"Owner"
+            }
+        ]
+    },
+    {
+        "Company_name":"ABS Communications",
+        "Company_location":"Norwalk,  Ohio, United States",
+        "Company_website":"http://www.abscomm.net",
+        "Company_webdomain":"abscomm.net",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"John Wieland",
+                "contact_jobtitle":"Sales Vice President",
+                "contact_email_domain":"@abscomm.net",
+                "contact_department":"Sales Vice President"
+            },
+            {
+                "contact_name":"Brent Bucci",
+                "contact_jobtitle":"Chief Revenue Officer/Vice President of Operations",
+                "contact_email_domain":"@abscomm.net",
+                "contact_department":"Chief Revenue Officer/Vice President of Operations"
+            },
+            {
+                "contact_name":"Sheri Woulard",
+                "contact_jobtitle":"Wireless Solutions Executive",
+                "contact_email_domain":"@abscomm.net",
+                "contact_department":"Wireless Solutions Executive"
+            },
+            {
+                "contact_name":"Tommy Dreger",
+                "contact_jobtitle":"Sales Consultant",
+                "contact_email_domain":"@abscomm.net",
+                "contact_department":"Sales Consultant"
+            },
+            {
+                "contact_name":"Patrick Novak",
+                "contact_jobtitle":"Sales Executive",
+                "contact_email_domain":"@abscomm.net",
+                "contact_department":"Sales Executive"
+            },
+            {
+                "contact_name":"Joe Symanski",
+                "contact_jobtitle":"Sales Operations Manager",
+                "contact_email_domain":"@abscomm.net",
+                "contact_department":"Sales Operations Manager"
+            },
+            {
+                "contact_name":"Sandi Lazette",
+                "contact_jobtitle":"Director of Wireless Execution",
+                "contact_email_domain":"@abscomm.net",
+                "contact_department":"Director of Wireless Execution"
+            },
+            {
+                "contact_name":"Joe Symanski",
+                "contact_jobtitle":"Sales Operations Manager",
+                "contact_email_domain":"@abscomm.net",
+                "contact_department":"Sales Operations Manager"
+            },
+            {
+                "contact_name":"Sandi Lazette",
+                "contact_jobtitle":"Director of Wireless Execution",
+                "contact_email_domain":"@abscomm.net",
+                "contact_department":"Director of Wireless Execution"
+            }
+        ]
+    },
+    {
+        "Company_name":"A&A Technology Group",
+        "Company_location":"Waco, Texas, United States",
+        "Company_website":"http://www.aatg.net",
+        "Company_webdomain":"aatg.net",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Matt Hummon",
+                "contact_jobtitle":"Systems Engineer",
+                "contact_email_domain":"@aatg.net",
+                "contact_department":"Systems Engineer"
+            },
+            {
+                "contact_name":"William Dixson",
+                "contact_jobtitle":"Service Coordinator/Support Tech I",
+                "contact_email_domain":"@aatg.net",
+                "contact_department":"Service Coordinator/Support Tech I"
+            },
+            {
+                "contact_name":"Phil Anderson",
+                "contact_jobtitle":"Serveilance Systems and Telecommunications",
+                "contact_email_domain":"@aatg.net",
+                "contact_department":"Serveilance Systems and Telecommunications"
+            },
+            {
+                "contact_name":"Bob Krick",
+                "contact_jobtitle":"Manager, Existing Customer Base",
+                "contact_email_domain":"@aatg.net",
+                "contact_department":"Manager, Existing Customer Base"
+            },
+            {
+                "contact_name":"Charles Pickering",
+                "contact_jobtitle":"Service Manager",
+                "contact_email_domain":"@aatg.net",
+                "contact_department":"Service Manager"
+            },
+            {
+                "contact_name":"Alan Hummon",
+                "contact_jobtitle":"Vice President",
+                "contact_email_domain":"@aatg.net",
+                "contact_department":"Vice President"
+            },
+            {
+                "contact_name":"Alan Hummon",
+                "contact_jobtitle":"Vice President",
+                "contact_email_domain":"@aatg.net",
+                "contact_department":"Vice President"
+            },
+            {
+                "contact_name":"Alan Hummon",
+                "contact_jobtitle":"Vice President",
+                "contact_email_domain":"@aatg.net",
+                "contact_department":"Vice President"
+            },
+            {
+                "contact_name":"Jp Miller",
+                "contact_jobtitle":"Accounting / Operations",
+                "contact_email_domain":"@aatg.net",
+                "contact_department":"Accounting / Operations"
+            }
+        ]
+    },
+    {
+        "Company_name":"ACC Business",
+        "Company_location":"Rochester, Minnesota, United States",
+        "Company_website":"http://www.accbusiness.com",
+        "Company_webdomain":"accbusiness.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":"$10 - 50M",
+        "contact_details":[
+            {
+                "contact_name":"Gino Palluconi",
+                "contact_jobtitle":"Area Manager Operations",
+                "contact_email_domain":"@accbusiness.com",
+                "contact_department":"Area Manager Operations"
+            },
+            {
+                "contact_name":"Pam Singh",
+                "contact_jobtitle":"Financial aid Director",
+                "contact_email_domain":"@accbusiness.com",
+                "contact_department":"Financial aid Director"
+            },
+            {
+                "contact_name":"Sam Sparro",
+                "contact_jobtitle":"Director",
+                "contact_email_domain":"@accbusiness.com",
+                "contact_department":"Director"
+            },
+            {
+                "contact_name":"Jan Kowalski",
+                "contact_jobtitle":"Director",
+                "contact_email_domain":"@accbusiness.com",
+                "contact_department":"Director"
+            },
+            {
+                "contact_name":"John Zhang",
+                "contact_jobtitle":"Director",
+                "contact_email_domain":"@accbusiness.com",
+                "contact_department":"Director"
+            },
+            {
+                "contact_name":"Brendan Brownrigg",
+                "contact_jobtitle":"Vice President",
+                "contact_email_domain":"@accbusiness.com",
+                "contact_department":"Vice President"
+            },
+            {
+                "contact_name":"Brendan Brownrigg",
+                "contact_jobtitle":"Vice President",
+                "contact_email_domain":"@accbusiness.com",
+                "contact_department":"Vice President"
+            },
+            {
+                "contact_name":"Doreen Mazzacchi",
+                "contact_jobtitle":"Sales Support / Compensation Manager / Contract Manager",
+                "contact_email_domain":"@accbusiness.com",
+                "contact_department":"Sales Support / Compensation Manager / Contract Manager"
+            },
+            {
+                "contact_name":"Doreen Mazzacchi",
+                "contact_jobtitle":"Sales Support / Compensation Manager / Contract Manager",
+                "contact_email_domain":"@accbusiness.com",
+                "contact_department":"Sales Support / Compensation Manager / Contract Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"AccelTex Solutions",
+        "Company_location":"San Antonio, Texas, United States",
+        "Company_website":"http://www.acceltex.com",
+        "Company_webdomain":"acceltex.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Usrich Hummel",
+                "contact_jobtitle":"Regional Sales Manager",
+                "contact_email_domain":"@acceltex.com",
+                "contact_department":"Regional Sales Manager"
+            },
+            {
+                "contact_name":"Carter Burke",
+                "contact_jobtitle":"CEO/Owner",
+                "contact_email_domain":"@acceltex.com",
+                "contact_department":"CEO/Owner"
+            },
+            {
+                "contact_name":"Keven Dech",
+                "contact_jobtitle":"Senior Hardware Support Engineer",
+                "contact_email_domain":"@acceltex.com",
+                "contact_department":"Senior Hardware Support Engineer"
+            },
+            {
+                "contact_name":"Ryan Tyson",
+                "contact_jobtitle":"Regional Sales Manager",
+                "contact_email_domain":"@acceltex.com",
+                "contact_department":"Regional Sales Manager"
+            },
+            {
+                "contact_name":"Ryan Tyson",
+                "contact_jobtitle":"Regional Sales Manager",
+                "contact_email_domain":"@acceltex.com",
+                "contact_department":"Regional Sales Manager"
+            },
+            {
+                "contact_name":"Brian Smith",
+                "contact_jobtitle":"Regional Sales Manager",
+                "contact_email_domain":"@acceltex.com",
+                "contact_department":"Regional Sales Manager"
+            },
+            {
+                "contact_name":"Jason Rinaldi",
+                "contact_jobtitle":"Regional Sales Manager",
+                "contact_email_domain":"@acceltex.com",
+                "contact_department":"Regional Sales Manager"
+            },
+            {
+                "contact_name":"Felicia Raymond",
+                "contact_jobtitle":"Director of Marketing",
+                "contact_email_domain":"@acceltex.com",
+                "contact_department":"Director of Marketing"
+            },
+            {
+                "contact_name":"Amanda Hinnant",
+                "contact_jobtitle":"Director of Infrastructure Products",
+                "contact_email_domain":"@acceltex.com",
+                "contact_department":"Director of Infrastructure Products"
+            }
+        ]
+    },
+    {
+        "Company_name":"Acces Communications",
+        "Company_location":"Montreal,  Quebec, Canada",
+        "Company_website":"http://www.accesradio.com",
+        "Company_webdomain":"accesradio.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Amine Khaoua",
+                "contact_jobtitle":"Technicien t\u00e9l\u00e9communications",
+                "contact_email_domain":"@accesradio.com",
+                "contact_department":"Technicien t\u00e9l\u00e9communications"
+            },
+            {
+                "contact_name":"Pablo Trujillo",
+                "contact_jobtitle":"Senior RF Engineer",
+                "contact_email_domain":"@accesradio.com",
+                "contact_department":"Senior RF Engineer"
+            },
+            {
+                "contact_name":"Yves Mejoussi",
+                "contact_jobtitle":"Consultant en t\u00e9l\u00e9communications",
+                "contact_email_domain":"@accesradio.com",
+                "contact_department":"Consultant en t\u00e9l\u00e9communications"
+            },
+            {
+                "contact_name":"Manon Fortin",
+                "contact_jobtitle":"Gestionnaires de contrats/ Facturation ventes et locations",
+                "contact_email_domain":"@accesradio.com",
+                "contact_department":"Gestionnaires de contrats/ Facturation ventes et locations"
+            },
+            {
+                "contact_name":"Chun-Ming Lu",
+                "contact_jobtitle":"Radio Programming Technicien",
+                "contact_email_domain":"@accesradio.com",
+                "contact_department":"Radio Programming Technicien"
+            },
+            {
+                "contact_name":"Lyes Belaid",
+                "contact_jobtitle":"Technicien de programmation en radiocommunication",
+                "contact_email_domain":"@accesradio.com",
+                "contact_department":"Technicien de programmation en radiocommunication"
+            },
+            {
+                "contact_name":"Lyes Belaid",
+                "contact_jobtitle":"Technicien de programmation en radiocommunication",
+                "contact_email_domain":"@accesradio.com",
+                "contact_department":"Technicien de programmation en radiocommunication"
+            },
+            {
+                "contact_name":"Salim Mekhaldi",
+                "contact_jobtitle":"Coordonnateur S\u00e9nior: Service, Sites et Licences",
+                "contact_email_domain":"@accesradio.com",
+                "contact_department":"Coordonnateur S\u00e9nior: Service, Sites et Licences"
+            },
+            {
+                "contact_name":"Mario Dumontier",
+                "contact_jobtitle":"Service Manager",
+                "contact_email_domain":"@accesradio.com",
+                "contact_department":"Service Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"Acotel",
+        "Company_location":"New York, New york, United States",
+        "Company_website":"http://www.acotel.com",
+        "Company_webdomain":"acotel.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Francesco Mordacchini",
+                "contact_jobtitle":"Legal and Regulatory Counsel",
+                "contact_email_domain":"@acotel.com",
+                "contact_department":"Legal and Regulatory Counsel"
+            },
+            {
+                "contact_name":"Margherita Contino",
+                "contact_jobtitle":"Project Manager",
+                "contact_email_domain":"@acotel.com",
+                "contact_department":"Project Manager"
+            },
+            {
+                "contact_name":"Igor Pagan",
+                "contact_jobtitle":"Key Account Manager",
+                "contact_email_domain":"@acotel.com",
+                "contact_department":"Key Account Manager"
+            },
+            {
+                "contact_name":"Valentina Di Sabatino",
+                "contact_jobtitle":"Marketing Manager",
+                "contact_email_domain":"@acotel.com",
+                "contact_department":"Marketing Manager"
+            },
+            {
+                "contact_name":"Flavio D'Ischia",
+                "contact_jobtitle":"Senior Product/Project Manager",
+                "contact_email_domain":"@acotel.com",
+                "contact_department":"Senior Product/Project Manager"
+            },
+            {
+                "contact_name":"Flavio D'Ischia",
+                "contact_jobtitle":"Senior Product/Project Manager",
+                "contact_email_domain":"@acotel.com",
+                "contact_department":"Senior Product/Project Manager"
+            },
+            {
+                "contact_name":"Davide Carnevale",
+                "contact_jobtitle":"Director",
+                "contact_email_domain":"@acotel.com",
+                "contact_department":"Director"
+            },
+            {
+                "contact_name":"Stefano Gabrielli",
+                "contact_jobtitle":"Director Software Engineering",
+                "contact_email_domain":"@acotel.com",
+                "contact_department":"Director Software Engineering"
+            },
+            {
+                "contact_name":"Marco Orioni",
+                "contact_jobtitle":"Chief Technology Officer Chief Technology Officer",
+                "contact_email_domain":"@acotel.com",
+                "contact_department":"Chief Technology Officer Chief Technology Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"A Cheerful Giver",
+        "Company_location":"San Diego, California, United States",
+        "Company_website":"http://www.acheerfulgiver.com",
+        "Company_webdomain":"acheerfulgiver.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"0 - 25",
+        "Company_revenue":"$0 - 1M",
+        "contact_details":[
+            {
+                "contact_name":"Lisa Thomas",
+                "contact_jobtitle":"Bookeeper with expertise working with small businesses",
+                "contact_email_domain":"@acheerfulgiver.com",
+                "contact_department":"Bookeeper with expertise working with small businesses"
+            },
+            {
+                "contact_name":"Susan Gross",
+                "contact_jobtitle":"Sales",
+                "contact_email_domain":"@acheerfulgiver.com",
+                "contact_department":"Sales"
+            },
+            {
+                "contact_name":"True Luv",
+                "contact_jobtitle":"God Loves",
+                "contact_email_domain":"@acheerfulgiver.com",
+                "contact_department":"God Loves"
+            },
+            {
+                "contact_name":"Amanda Morrell",
+                "contact_jobtitle":"Sales Account Manager",
+                "contact_email_domain":"@acheerfulgiver.com",
+                "contact_department":"Sales Account Manager"
+            },
+            {
+                "contact_name":"Christy Eliason",
+                "contact_jobtitle":"Manager",
+                "contact_email_domain":"@acheerfulgiver.com",
+                "contact_department":"Manager"
+            },
+            {
+                "contact_name":"Debra Wible",
+                "contact_jobtitle":"Wholesale Account Manager",
+                "contact_email_domain":"@acheerfulgiver.com",
+                "contact_department":"Wholesale Account Manager"
+            },
+            {
+                "contact_name":"Stephanie Robbins",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@acheerfulgiver.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"James Pike",
+                "contact_jobtitle":"Vice President of Sales",
+                "contact_email_domain":"@acheerfulgiver.com",
+                "contact_department":"Vice President of Sales"
+            },
+            {
+                "contact_name":"Tony Gross",
+                "contact_jobtitle":"Owner",
+                "contact_email_domain":"@acheerfulgiver.com",
+                "contact_department":"Owner"
+            }
+        ]
+    },
+    {
+        "Company_name":"ACS",
+        "Company_location":"Lake Mary, Florida, United States",
+        "Company_website":"http://www.2acs.com",
+        "Company_webdomain":"2acs.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Jodi Heeke",
+                "contact_jobtitle":"Major Account Executive",
+                "contact_email_domain":"@2acs.com",
+                "contact_department":"Major Account Executive"
+            },
+            {
+                "contact_name":"Jay Marzullo",
+                "contact_jobtitle":"Vice President of Sales",
+                "contact_email_domain":"@2acs.com",
+                "contact_department":"Vice President of Sales"
+            },
+            {
+                "contact_name":"Mark Brennan",
+                "contact_jobtitle":"Senior Vice President",
+                "contact_email_domain":"@2acs.com",
+                "contact_department":"Senior Vice President"
+            },
+            {
+                "contact_name":"Jack Martin",
+                "contact_jobtitle":"Senior Vice President and Chief Technology Officer BPO Solutions",
+                "contact_email_domain":"@2acs.com",
+                "contact_department":"Senior Vice President and Chief Technology Officer BPO Solutions"
+            },
+            {
+                "contact_name":"Patrick Quarry",
+                "contact_jobtitle":"Sales, Vice President",
+                "contact_email_domain":"@2acs.com",
+                "contact_department":"Sales, Vice President"
+            },
+            {
+                "contact_name":"Steve Battista",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@2acs.com",
+                "contact_department":"President"
+            },
+            {
+                "contact_name":"Al Frye",
+                "contact_jobtitle":"Vice President, Finance",
+                "contact_email_domain":"@2acs.com",
+                "contact_department":"Vice President, Finance"
+            },
+            {
+                "contact_name":"Andrew Johnson",
+                "contact_jobtitle":"Chief Executive Officer",
+                "contact_email_domain":"@2acs.com",
+                "contact_department":"Chief Executive Officer"
+            },
+            {
+                "contact_name":"Vishnu Nanan",
+                "contact_jobtitle":"Applications Director and Chief Technology Officer",
+                "contact_email_domain":"@2acs.com",
+                "contact_department":"Applications Director and Chief Technology Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"Polycom",
+        "Company_location":"San Jose, California, United States",
+        "Company_website":"http://www.polycom.com",
+        "Company_webdomain":"polycom.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"1K - 10K",
+        "Company_revenue":"> $1B",
+        "contact_details":[
+            {
+                "contact_name":"Sunil Bali",
+                "contact_jobtitle":"Vice President and General Manager, APAC Services",
+                "contact_email_domain":"@polycom.com",
+                "contact_department":"Vice President and General Manager, APAC Services"
+            },
+            {
+                "contact_name":"Gloria Loredo",
+                "contact_jobtitle":"Vice President, Global Services Operations",
+                "contact_email_domain":"@polycom.com",
+                "contact_department":"Vice President, Global Services Operations"
+            },
+            {
+                "contact_name":"Lucia Turpin",
+                "contact_jobtitle":"Vice President and Chief Information Security Officer",
+                "contact_email_domain":"@polycom.com",
+                "contact_department":"Vice President and Chief Information Security Officer"
+            },
+            {
+                "contact_name":"Daniel Schmierer",
+                "contact_jobtitle":"Vice President Sales",
+                "contact_email_domain":"@polycom.com",
+                "contact_department":"Vice President Sales"
+            },
+            {
+                "contact_name":"Lisa Ayers",
+                "contact_jobtitle":"Vice President, Sales",
+                "contact_email_domain":"@polycom.com",
+                "contact_department":"Vice President, Sales"
+            },
+            {
+                "contact_name":"Scott Cordray",
+                "contact_jobtitle":"Senior Management Senior Vice President/General Manager/Director",
+                "contact_email_domain":"@polycom.com",
+                "contact_department":"Senior Management Senior Vice President/General Manager/Director"
+            },
+            {
+                "contact_name":"Robert Hughes",
+                "contact_jobtitle":"Vice President Operations",
+                "contact_email_domain":"@polycom.com",
+                "contact_department":"Vice President Operations"
+            },
+            {
+                "contact_name":"Stephen Schaefer",
+                "contact_jobtitle":"User Experience Architect - Chief Technology Officer Group",
+                "contact_email_domain":"@polycom.com",
+                "contact_department":"User Experience Architect - Chief Technology Officer Group"
+            },
+            {
+                "contact_name":"Lucie Smith",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@polycom.com",
+                "contact_department":"President"
+            }
+        ]
+    },
+    {
+        "Company_name":"PGi",
+        "Company_location":"Atlanta, Georgia, United States",
+        "Company_website":"http://www.pgi.com",
+        "Company_webdomain":"pgi.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"1K - 10K",
+        "Company_revenue":"$500M - 1B",
+        "contact_details":[
+            {
+                "contact_name":"Todd Meacham",
+                "contact_jobtitle":"Vice President, FP andA",
+                "contact_email_domain":"@pgi.com",
+                "contact_department":"Vice President, FP andA"
+            },
+            {
+                "contact_name":"Matt Mantione",
+                "contact_jobtitle":"Vice President, DevOps",
+                "contact_email_domain":"@pgi.com",
+                "contact_department":"Vice President, DevOps"
+            },
+            {
+                "contact_name":"Rosalie Campbell",
+                "contact_jobtitle":"Vice President, Global Audio and Web Operations",
+                "contact_email_domain":"@pgi.com",
+                "contact_department":"Vice President, Global Audio and Web Operations"
+            },
+            {
+                "contact_name":"Joseph Rowe",
+                "contact_jobtitle":"Vice President of Quality Assurance",
+                "contact_email_domain":"@pgi.com",
+                "contact_department":"Vice President of Quality Assurance"
+            },
+            {
+                "contact_name":"Jim Miles",
+                "contact_jobtitle":"Vice President, Information Security",
+                "contact_email_domain":"@pgi.com",
+                "contact_department":"Vice President, Information Security"
+            },
+            {
+                "contact_name":"Richard Brown",
+                "contact_jobtitle":"Vice President of North America - Deal Desk",
+                "contact_email_domain":"@pgi.com",
+                "contact_department":"Vice President of North America - Deal Desk"
+            },
+            {
+                "contact_name":"Brooks Askins",
+                "contact_jobtitle":"Deputy General Counsel and Vice President",
+                "contact_email_domain":"@pgi.com",
+                "contact_department":"Deputy General Counsel and Vice President"
+            },
+            {
+                "contact_name":"Tom Maurath",
+                "contact_jobtitle":"Senior Vice President, Global Channel Partners",
+                "contact_email_domain":"@pgi.com",
+                "contact_department":"Senior Vice President, Global Channel Partners"
+            },
+            {
+                "contact_name":"Hubert De Pesquidoux",
+                "contact_jobtitle":"Executive Chairman",
+                "contact_email_domain":"@pgi.com",
+                "contact_department":"Executive Chairman"
+            }
+        ]
+    },
+    {
+        "Company_name":"A Better Answer",
+        "Company_location":"Plano,  Texas, United States",
+        "Company_website":"http://www.abetteranswer.com",
+        "Company_webdomain":"abetteranswer.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Brenda Barton",
+                "contact_jobtitle":"Collection Manager",
+                "contact_email_domain":"@abetteranswer.com",
+                "contact_department":"Collection Manager"
+            },
+            {
+                "contact_name":"Roseann Gibbs",
+                "contact_jobtitle":"Manager",
+                "contact_email_domain":"@abetteranswer.com",
+                "contact_department":"Manager"
+            },
+            {
+                "contact_name":"Dee Sobelman",
+                "contact_jobtitle":"Telereceptionist",
+                "contact_email_domain":"@abetteranswer.com",
+                "contact_department":"Telereceptionist"
+            },
+            {
+                "contact_name":"Weiler Debbie",
+                "contact_jobtitle":"Office Manager",
+                "contact_email_domain":"@abetteranswer.com",
+                "contact_department":"Office Manager"
+            },
+            {
+                "contact_name":"Hildie Ciejka",
+                "contact_jobtitle":"Customer Service Manager",
+                "contact_email_domain":"@abetteranswer.com",
+                "contact_department":"Customer Service Manager"
+            },
+            {
+                "contact_name":"Stephanie Hyde",
+                "contact_jobtitle":"Information Technology Manager",
+                "contact_email_domain":"@abetteranswer.com",
+                "contact_department":"Information Technology Manager"
+            },
+            {
+                "contact_name":"Jessica Brown",
+                "contact_jobtitle":"Director of Marketing",
+                "contact_email_domain":"@abetteranswer.com",
+                "contact_department":"Director of Marketing"
+            },
+            {
+                "contact_name":"Lola Longria",
+                "contact_jobtitle":"Information Technology Director",
+                "contact_email_domain":"@abetteranswer.com",
+                "contact_department":"Information Technology Director"
+            },
+            {
+                "contact_name":"Vicki Young",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@abetteranswer.com",
+                "contact_department":"President"
+            }
+        ]
+    },
+    {
+        "Company_name":"ABR Industries",
+        "Company_location":"Houston,  Texas, United States",
+        "Company_website":"http://www.abrind.com",
+        "Company_webdomain":"abrind.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$0 - 1M",
+        "contact_details":[
+            {
+                "contact_name":"Shannon Fields",
+                "contact_jobtitle":"Sales Manager",
+                "contact_email_domain":"@abrind.com",
+                "contact_department":"Sales Manager"
+            },
+            {
+                "contact_name":"Benjamin Abramson",
+                "contact_jobtitle":"Partner",
+                "contact_email_domain":"@abrind.com",
+                "contact_department":"Partner"
+            }
+        ]
+    },
+    {
+        "Company_name":"AccuAir, Inc.",
+        "Company_location":"Apopka, Florida, United States",
+        "Company_website":"http://www.accuaironline.com",
+        "Company_webdomain":"accuaironline.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"0 - 25",
+        "Company_revenue":"$0 - 1M",
+        "contact_details":[
+            {
+                "contact_name":"Penny Anderson",
+                "contact_jobtitle":"Sales",
+                "contact_email_domain":"@accuaironline.com",
+                "contact_department":"Sales"
+            },
+            {
+                "contact_name":"Frank Suranyi",
+                "contact_jobtitle":"Engineered Products Manager",
+                "contact_email_domain":"@accuaironline.com",
+                "contact_department":"Engineered Products Manager"
+            },
+            {
+                "contact_name":"Greg Duggan",
+                "contact_jobtitle":"General Manager",
+                "contact_email_domain":"@accuaironline.com",
+                "contact_department":"General Manager"
+            },
+            {
+                "contact_name":"Kristen Knight",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@accuaironline.com",
+                "contact_department":"President"
+            }
+        ]
+    },
+    {
+        "Company_name":"ACN",
+        "Company_location":"Scottsdale, Arizona, United States",
+        "Company_website":"http://www.acnrep.acnibo.com",
+        "Company_webdomain":"acnrep.acnibo.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"1K - 10K",
+        "Company_revenue":"$250 - 500M",
+        "contact_details":[
+            {
+                "contact_name":"Clifford Crawford",
+                "contact_jobtitle":"Independent Business Owner",
+                "contact_email_domain":"@acnrep.com",
+                "contact_department":"Independent Business Owner"
+            },
+            {
+                "contact_name":"Graham Stiles",
+                "contact_jobtitle":"Owner",
+                "contact_email_domain":"@acnrep.com",
+                "contact_department":"Owner"
+            },
+            {
+                "contact_name":"Dominic Denis",
+                "contact_jobtitle":"Independant Business owner",
+                "contact_email_domain":"@acnrep.com",
+                "contact_department":"Independant Business owner"
+            },
+            {
+                "contact_name":"Chris Moody",
+                "contact_jobtitle":"Owner",
+                "contact_email_domain":"@acnrep.com",
+                "contact_department":"Owner"
+            },
+            {
+                "contact_name":"Chris Moody",
+                "contact_jobtitle":"Owner",
+                "contact_email_domain":"@acnrep.com",
+                "contact_department":"Owner"
+            },
+            {
+                "contact_name":"Carolina Kotevski",
+                "contact_jobtitle":"Independant Business Owner",
+                "contact_email_domain":"@acnrep.com",
+                "contact_department":"Independant Business Owner"
+            },
+            {
+                "contact_name":"Kenneth Jones",
+                "contact_jobtitle":"Business Owner",
+                "contact_email_domain":"@acnrep.com",
+                "contact_department":"Business Owner"
+            },
+            {
+                "contact_name":"Kenneth Jones",
+                "contact_jobtitle":"Business Owner",
+                "contact_email_domain":"@acnrep.com",
+                "contact_department":"Business Owner"
+            },
+            {
+                "contact_name":"Kenneth Jones",
+                "contact_jobtitle":"Business Owner",
+                "contact_email_domain":"@acnrep.com",
+                "contact_department":"Business Owner"
+            }
+        ]
+    },
+    {
+        "Company_name":"ACG Systems",
+        "Company_location":"Annapolis, Maryland, United States",
+        "Company_website":"http://www.acgsys.com",
+        "Company_webdomain":"acgsys.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$10 - 50M",
+        "contact_details":[
+            {
+                "contact_name":"Karen Reynolds",
+                "contact_jobtitle":"Procurement Manager",
+                "contact_email_domain":"@acgsys.com",
+                "contact_department":"Procurement Manager"
+            },
+            {
+                "contact_name":"Christian Bouline",
+                "contact_jobtitle":"Account Executive",
+                "contact_email_domain":"@acgsys.com",
+                "contact_department":"Account Executive"
+            },
+            {
+                "contact_name":"Sharie Neptune",
+                "contact_jobtitle":"Project Manager",
+                "contact_email_domain":"@acgsys.com",
+                "contact_department":"Project Manager"
+            },
+            {
+                "contact_name":"Sharie Neptune",
+                "contact_jobtitle":"Project Manager",
+                "contact_email_domain":"@acgsys.com",
+                "contact_department":"Project Manager"
+            },
+            {
+                "contact_name":"Jake Dick",
+                "contact_jobtitle":"Senior Account Manager - Federal",
+                "contact_email_domain":"@acgsys.com",
+                "contact_department":"Senior Account Manager - Federal"
+            },
+            {
+                "contact_name":"Jake Dick",
+                "contact_jobtitle":"Senior Account Manager - Federal",
+                "contact_email_domain":"@acgsys.com",
+                "contact_department":"Senior Account Manager - Federal"
+            },
+            {
+                "contact_name":"Ryan Kearney",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@acgsys.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Ryan Kearney",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@acgsys.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Patrick Carney",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@acgsys.com",
+                "contact_department":"Account Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"Accuvoice Inc.",
+        "Company_location":"Northbrook, Illinois, United States",
+        "Company_website":"http://www.accuvoice.com",
+        "Company_webdomain":"accuvoice.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Jeff Gatwood",
+                "contact_jobtitle":"Senior Sales Engineer",
+                "contact_email_domain":"@accuvoice.com",
+                "contact_department":"Senior Sales Engineer"
+            },
+            {
+                "contact_name":"Ben Barreras",
+                "contact_jobtitle":"Western Region Manager",
+                "contact_email_domain":"@accuvoice.com",
+                "contact_department":"Western Region Manager"
+            },
+            {
+                "contact_name":"Randy Schuster",
+                "contact_jobtitle":"Software Engineer",
+                "contact_email_domain":"@accuvoice.com",
+                "contact_department":"Software Engineer"
+            },
+            {
+                "contact_name":"Randy Schuster",
+                "contact_jobtitle":"Software Engineer",
+                "contact_email_domain":"@accuvoice.com",
+                "contact_department":"Software Engineer"
+            },
+            {
+                "contact_name":"Van Vuong",
+                "contact_jobtitle":"Software Engineer",
+                "contact_email_domain":"@accuvoice.com",
+                "contact_department":"Software Engineer"
+            },
+            {
+                "contact_name":"Rick Janka",
+                "contact_jobtitle":"Senior Software Engineer",
+                "contact_email_domain":"@accuvoice.com",
+                "contact_department":"Senior Software Engineer"
+            },
+            {
+                "contact_name":"Pat Lott",
+                "contact_jobtitle":"Project Manager",
+                "contact_email_domain":"@accuvoice.com",
+                "contact_department":"Project Manager"
+            },
+            {
+                "contact_name":"Pat Lott",
+                "contact_jobtitle":"Project Manager",
+                "contact_email_domain":"@accuvoice.com",
+                "contact_department":"Project Manager"
+            },
+            {
+                "contact_name":"Bob Vilsoet",
+                "contact_jobtitle":"Engineering Director",
+                "contact_email_domain":"@accuvoice.com",
+                "contact_department":"Engineering Director"
+            }
+        ]
+    },
+    {
+        "Company_name":"Accurate Telecom",
+        "Company_location":"Van Nuys, California, United States",
+        "Company_website":"http://www.accuratetelecom.com",
+        "Company_webdomain":"accuratetelecom.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"0 - 25",
+        "Company_revenue":"$10 - 50M",
+        "contact_details":[
+            {
+                "contact_name":"Michael Serapiglia",
+                "contact_jobtitle":"UC Tech",
+                "contact_email_domain":"@accuratetelecom.com",
+                "contact_department":"UC Tech"
+            },
+            {
+                "contact_name":"Kathy Koch",
+                "contact_jobtitle":"Telco Coordinator",
+                "contact_email_domain":"@accuratetelecom.com",
+                "contact_department":"Telco Coordinator"
+            },
+            {
+                "contact_name":"Tom Whitaker",
+                "contact_jobtitle":"Personnel Director",
+                "contact_email_domain":"@accuratetelecom.com",
+                "contact_department":"Personnel Director"
+            },
+            {
+                "contact_name":"Glen Geary",
+                "contact_jobtitle":"Operations Manager",
+                "contact_email_domain":"@accuratetelecom.com",
+                "contact_department":"Operations Manager"
+            },
+            {
+                "contact_name":"Chris Welch",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@accuratetelecom.com",
+                "contact_department":"President"
+            },
+            {
+                "contact_name":"Ken Jones",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@accuratetelecom.com",
+                "contact_department":"President"
+            },
+            {
+                "contact_name":"Kc Jones",
+                "contact_jobtitle":"Chief Executive Officer",
+                "contact_email_domain":"@accuratetelecom.com",
+                "contact_department":"Chief Executive Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"Accutel",
+        "Company_location":"Toronto, ON, Canada",
+        "Company_website":"http://www.accutel.com",
+        "Company_webdomain":"accutel.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Jackie Wilson",
+                "contact_jobtitle":"Inside Sales Representative",
+                "contact_email_domain":"@accutel.com",
+                "contact_department":"Inside Sales Representative"
+            },
+            {
+                "contact_name":"Priyanka Sritharan",
+                "contact_jobtitle":"Senior Operator",
+                "contact_email_domain":"@accutel.com",
+                "contact_department":"Senior Operator"
+            },
+            {
+                "contact_name":"Sylvie Gelineau",
+                "contact_jobtitle":"Bilingual Customer Service Representative",
+                "contact_email_domain":"@accutel.com",
+                "contact_department":"Bilingual Customer Service Representative"
+            },
+            {
+                "contact_name":"Loretta Gauthier",
+                "contact_jobtitle":"Sales Representative",
+                "contact_email_domain":"@accutel.com",
+                "contact_department":"Sales Representative"
+            },
+            {
+                "contact_name":"Gintaras Batura",
+                "contact_jobtitle":"Senior Application Architect and Developer",
+                "contact_email_domain":"@accutel.com",
+                "contact_department":"Senior Application Architect and Developer"
+            },
+            {
+                "contact_name":"Gintaras Batura",
+                "contact_jobtitle":"Senior Application Architect and Developer",
+                "contact_email_domain":"@accutel.com",
+                "contact_department":"Senior Application Architect and Developer"
+            },
+            {
+                "contact_name":"Herman Hutson",
+                "contact_jobtitle":"Operations Supervisor",
+                "contact_email_domain":"@accutel.com",
+                "contact_department":"Operations Supervisor"
+            },
+            {
+                "contact_name":"Pamala Matthews",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@accutel.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Chris Sturgeon",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@accutel.com",
+                "contact_department":"Account Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"ACI Communications",
+        "Company_location":"Kent,  Washington, United States",
+        "Company_website":"http://www.acicomms.com",
+        "Company_webdomain":"acicomms.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$10 - 50M",
+        "contact_details":[
+            {
+                "contact_name":"Lee Evans",
+                "contact_jobtitle":"Engineering tech",
+                "contact_email_domain":"@acicomms.com",
+                "contact_department":"Engineering tech"
+            },
+            {
+                "contact_name":"Say Sot",
+                "contact_jobtitle":"Field Application Engineer",
+                "contact_email_domain":"@acicomms.com",
+                "contact_department":"Field Application Engineer"
+            },
+            {
+                "contact_name":"Aaron Davis",
+                "contact_jobtitle":"Eastern Regional Sales Manager",
+                "contact_email_domain":"@acicomms.com",
+                "contact_department":"Eastern Regional Sales Manager"
+            },
+            {
+                "contact_name":"Aaron Davis",
+                "contact_jobtitle":"Eastern Regional Sales Manager",
+                "contact_email_domain":"@acicomms.com",
+                "contact_department":"Eastern Regional Sales Manager"
+            },
+            {
+                "contact_name":"Eric Walton",
+                "contact_jobtitle":"Southwest Technical Sales Manager",
+                "contact_email_domain":"@acicomms.com",
+                "contact_department":"Southwest Technical Sales Manager"
+            },
+            {
+                "contact_name":"Robin Broussard",
+                "contact_jobtitle":"IT/HR Manager",
+                "contact_email_domain":"@acicomms.com",
+                "contact_department":"IT/HR Manager"
+            },
+            {
+                "contact_name":"Steve Hiatt",
+                "contact_jobtitle":"Senior Director of Product Management",
+                "contact_email_domain":"@acicomms.com",
+                "contact_department":"Senior Director of Product Management"
+            },
+            {
+                "contact_name":"Howard Carter",
+                "contact_jobtitle":"Director of Product Management",
+                "contact_email_domain":"@acicomms.com",
+                "contact_department":"Director of Product Management"
+            }
+        ]
+    },
+    {
+        "Company_name":"accrotool.com",
+        "Company_location":"New Kensington, Pennsylvania, United States",
+        "Company_website":"http://www.accrotool.com",
+        "Company_webdomain":"accrotool.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"James Rura",
+                "contact_jobtitle":"Product Development Engineer",
+                "contact_email_domain":"@accrotool.com",
+                "contact_department":"Product Development Engineer"
+            },
+            {
+                "contact_name":"Kimberly Clark",
+                "contact_jobtitle":"INVENTORY Control",
+                "contact_email_domain":"@accrotool.com",
+                "contact_department":"INVENTORY Control"
+            },
+            {
+                "contact_name":"Kimberly Shank",
+                "contact_jobtitle":"Inventory Control and Assembly Supervisor",
+                "contact_email_domain":"@accrotool.com",
+                "contact_department":"Inventory Control and Assembly Supervisor"
+            },
+            {
+                "contact_name":"Daniel Thompson",
+                "contact_jobtitle":"Machining Supervisor",
+                "contact_email_domain":"@accrotool.com",
+                "contact_department":"Machining Supervisor"
+            },
+            {
+                "contact_name":"Paul Landi",
+                "contact_jobtitle":"Facilities and Maintenance Manager",
+                "contact_email_domain":"@accrotool.com",
+                "contact_department":"Facilities and Maintenance Manager"
+            },
+            {
+                "contact_name":"Greg Rundy",
+                "contact_jobtitle":"Quality Assurance Manager",
+                "contact_email_domain":"@accrotool.com",
+                "contact_department":"Quality Assurance Manager"
+            },
+            {
+                "contact_name":"Darlene Dreshman",
+                "contact_jobtitle":"Accounting and Payroll Manager",
+                "contact_email_domain":"@accrotool.com",
+                "contact_department":"Accounting and Payroll Manager"
+            },
+            {
+                "contact_name":"Mark Roach",
+                "contact_jobtitle":"Vice President of Sales and Marketing",
+                "contact_email_domain":"@accrotool.com",
+                "contact_department":"Vice President of Sales and Marketing"
+            },
+            {
+                "contact_name":"Hal Walls",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@accrotool.com",
+                "contact_department":"President"
+            }
+        ]
+    },
+    {
+        "Company_name":"Accurate Connections, Inc.",
+        "Company_location":"Carrollton, Texas, United States",
+        "Company_website":"http://www.accurateconnections.com",
+        "Company_webdomain":"accurateconnections.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$0 - 1M",
+        "contact_details":[
+            {
+                "contact_name":"Terrica Hunt",
+                "contact_jobtitle":"Customer Service Rep/Accountant/Inventory Controls/Warehouse Manager",
+                "contact_email_domain":"@accurateconnections.com",
+                "contact_department":"Customer Service Rep/Accountant/Inventory Controls/Warehouse Manager"
+            },
+            {
+                "contact_name":"Tino Figueroa",
+                "contact_jobtitle":"Quality Manager",
+                "contact_email_domain":"@accurateconnections.com",
+                "contact_department":"Quality Manager"
+            },
+            {
+                "contact_name":"John Wales",
+                "contact_jobtitle":"Manager",
+                "contact_email_domain":"@accurateconnections.com",
+                "contact_department":"Manager"
+            },
+            {
+                "contact_name":"Tony Sellers",
+                "contact_jobtitle":"Warehouse Manager",
+                "contact_email_domain":"@accurateconnections.com",
+                "contact_department":"Warehouse Manager"
+            },
+            {
+                "contact_name":"Forrest Nelson",
+                "contact_jobtitle":"Account Manager-Outside Sales",
+                "contact_email_domain":"@accurateconnections.com",
+                "contact_department":"Account Manager-Outside Sales"
+            },
+            {
+                "contact_name":"Scott Sundberg",
+                "contact_jobtitle":"Regional Sales Manager",
+                "contact_email_domain":"@accurateconnections.com",
+                "contact_department":"Regional Sales Manager"
+            },
+            {
+                "contact_name":"Terrica Arnold",
+                "contact_jobtitle":"Account Manager/Human Resources Manager/Accountant/Inventory Controls/Warehouse Manager",
+                "contact_email_domain":"@accurateconnections.com",
+                "contact_department":"Account Manager/Human Resources Manager/Accountant/Inventory Controls/Warehouse Manager"
+            },
+            {
+                "contact_name":"Frank Li",
+                "contact_jobtitle":"New Product Development and Production Manager",
+                "contact_email_domain":"@accurateconnections.com",
+                "contact_department":"New Product Development and Production Manager"
+            },
+            {
+                "contact_name":"Nikkesh Chawla",
+                "contact_jobtitle":"Owner",
+                "contact_email_domain":"@accurateconnections.com",
+                "contact_department":"Owner"
+            }
+        ]
+    },
+    {
+        "Company_name":"Accuver EMEA",
+        "Company_location":"Plano, Texas, United States",
+        "Company_website":"http://www.accuver.com",
+        "Company_webdomain":"accuver.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"250 - 1000",
+        "Company_revenue":"$50 - 100M",
+        "contact_details":[
+            {
+                "contact_name":"Frank Njiaga",
+                "contact_jobtitle":"Technical Support Engineer",
+                "contact_email_domain":"@accuver.com",
+                "contact_department":"Technical Support Engineer"
+            },
+            {
+                "contact_name":"Jerry Nam",
+                "contact_jobtitle":"Senior Engineering Manager",
+                "contact_email_domain":"@accuver.com",
+                "contact_department":"Senior Engineering Manager"
+            },
+            {
+                "contact_name":"Marc Nguessan",
+                "contact_jobtitle":"Senior Sales Manager",
+                "contact_email_domain":"@accuver.com",
+                "contact_department":"Senior Sales Manager"
+            },
+            {
+                "contact_name":"Lakshmi Yalamanchili",
+                "contact_jobtitle":"Senior Sales Manager",
+                "contact_email_domain":"@accuver.com",
+                "contact_department":"Senior Sales Manager"
+            },
+            {
+                "contact_name":"Kamal Irvanipour",
+                "contact_jobtitle":"Key Account Manager",
+                "contact_email_domain":"@accuver.com",
+                "contact_department":"Key Account Manager"
+            },
+            {
+                "contact_name":"Gerald Castillo",
+                "contact_jobtitle":"Director of Engineering",
+                "contact_email_domain":"@accuver.com",
+                "contact_department":"Director of Engineering"
+            },
+            {
+                "contact_name":"Yeonsong Kim",
+                "contact_jobtitle":"Vice President of Engineering",
+                "contact_email_domain":"@accuver.com",
+                "contact_department":"Vice President of Engineering"
+            },
+            {
+                "contact_name":"Daniel Galeana",
+                "contact_jobtitle":"Vice President of Sales",
+                "contact_email_domain":"@accuver.com",
+                "contact_department":"Vice President of Sales"
+            },
+            {
+                "contact_name":"Jinman Kim",
+                "contact_jobtitle":"General Manager",
+                "contact_email_domain":"@accuver.com",
+                "contact_department":"General Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"ACD Direct",
+        "Company_location":"Farmington, Utah, United States",
+        "Company_website":"http://www.acddirect.com",
+        "Company_webdomain":"acddirect.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Seena Vernon-Sato",
+                "contact_jobtitle":"Senior Account Manager",
+                "contact_email_domain":"@acddirect.com",
+                "contact_department":"Senior Account Manager"
+            },
+            {
+                "contact_name":"Diane Jordan",
+                "contact_jobtitle":"Senior Account Executive",
+                "contact_email_domain":"@acddirect.com",
+                "contact_department":"Senior Account Executive"
+            },
+            {
+                "contact_name":"Jill Milleson",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@acddirect.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Don Sherwood",
+                "contact_jobtitle":"Director of Software Engineering",
+                "contact_email_domain":"@acddirect.com",
+                "contact_department":"Director of Software Engineering"
+            },
+            {
+                "contact_name":"Dolores Lobato",
+                "contact_jobtitle":"Director of Information Technology",
+                "contact_email_domain":"@acddirect.com",
+                "contact_department":"Director of Information Technology"
+            },
+            {
+                "contact_name":"Kyle Cluff",
+                "contact_jobtitle":"Community Outreach Director",
+                "contact_email_domain":"@acddirect.com",
+                "contact_department":"Community Outreach Director"
+            },
+            {
+                "contact_name":"Bill Davis",
+                "contact_jobtitle":"Vice President",
+                "contact_email_domain":"@acddirect.com",
+                "contact_department":"Vice President"
+            },
+            {
+                "contact_name":"Ryan Kirby",
+                "contact_jobtitle":"Chief Operating Officer",
+                "contact_email_domain":"@acddirect.com",
+                "contact_department":"Chief Operating Officer"
+            },
+            {
+                "contact_name":"Noah Rosales",
+                "contact_jobtitle":"Chief Executive Officer",
+                "contact_email_domain":"@acddirect.com",
+                "contact_department":"Chief Executive Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"Accu-Tech",
+        "Company_location":"Alpharetta,  Georgia, United States",
+        "Company_website":"http://www.accu-tech.com",
+        "Company_webdomain":"accu-tech.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"250 - 1000",
+        "Company_revenue":"$250 - 500M",
+        "contact_details":[
+            {
+                "contact_name":"Michael Cole",
+                "contact_jobtitle":"Senior Account Executive",
+                "contact_email_domain":"@accu-tech.com",
+                "contact_department":"Senior Account Executive"
+            },
+            {
+                "contact_name":"Robert Giles",
+                "contact_jobtitle":"Northeast Regional Account Executive, PA, OH, WV",
+                "contact_email_domain":"@accu-tech.com",
+                "contact_department":"Northeast Regional Account Executive, PA, OH, WV"
+            },
+            {
+                "contact_name":"Gina Stolzman",
+                "contact_jobtitle":"Inside Sales Manager",
+                "contact_email_domain":"@accu-tech.com",
+                "contact_department":"Inside Sales Manager"
+            },
+            {
+                "contact_name":"Holly Head",
+                "contact_jobtitle":"Director of Audio Visual Division",
+                "contact_email_domain":"@accu-tech.com",
+                "contact_department":"Director of Audio Visual Division"
+            },
+            {
+                "contact_name":"Andy Curl",
+                "contact_jobtitle":"Regional Vice President",
+                "contact_email_domain":"@accu-tech.com",
+                "contact_department":"Regional Vice President"
+            },
+            {
+                "contact_name":"Alex Wrigley",
+                "contact_jobtitle":"Vice President National Accounts",
+                "contact_email_domain":"@accu-tech.com",
+                "contact_department":"Vice President National Accounts"
+            },
+            {
+                "contact_name":"Adam Lassiter",
+                "contact_jobtitle":"Vice President Sales - Atlanta, Ga",
+                "contact_email_domain":"@accu-tech.com",
+                "contact_department":"Vice President Sales - Atlanta, Ga"
+            },
+            {
+                "contact_name":"Brian Michel",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@accu-tech.com",
+                "contact_department":"President"
+            },
+            {
+                "contact_name":"Austin Collins",
+                "contact_jobtitle":"Account Executive",
+                "contact_email_domain":"@accu-tech.com",
+                "contact_department":"Account Executive"
+            }
+        ]
+    },
+    {
+        "Company_name":"Acision",
+        "Company_location":"Gurgaon, Haryana, India",
+        "Company_website":"http://www.acision.com",
+        "Company_webdomain":"acision.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"1K - 10K",
+        "Company_revenue":"$500M - 1B",
+        "contact_details":[
+            {
+                "contact_name":"David Keeling",
+                "contact_jobtitle":"Vice President Global Delivery",
+                "contact_email_domain":"@acision.com",
+                "contact_department":"Vice President Global Delivery"
+            },
+            {
+                "contact_name":"Maarten Schrier",
+                "contact_jobtitle":"Vice President Finance",
+                "contact_email_domain":"@acision.com",
+                "contact_department":"Vice President Finance"
+            },
+            {
+                "contact_name":"Anders Pals",
+                "contact_jobtitle":"Vice President of Sales",
+                "contact_email_domain":"@acision.com",
+                "contact_department":"Vice President of Sales"
+            },
+            {
+                "contact_name":"Lindsay Miller",
+                "contact_jobtitle":"Vice President ICT",
+                "contact_email_domain":"@acision.com",
+                "contact_department":"Vice President ICT"
+            },
+            {
+                "contact_name":"Sam Dibas",
+                "contact_jobtitle":"Vice President, Global Support and Managed Services",
+                "contact_email_domain":"@acision.com",
+                "contact_department":"Vice President, Global Support and Managed Services"
+            },
+            {
+                "contact_name":"Janet Turner",
+                "contact_jobtitle":"Executive Vice President, Human Resources",
+                "contact_email_domain":"@acision.com",
+                "contact_department":"Executive Vice President, Human Resources"
+            },
+            {
+                "contact_name":"Glen Murray",
+                "contact_jobtitle":"Senior Vice President and General Manager Europe and Russia",
+                "contact_email_domain":"@acision.com",
+                "contact_department":"Senior Vice President and General Manager Europe and Russia"
+            },
+            {
+                "contact_name":"Nitin Gupta",
+                "contact_jobtitle":"Senior Solution Integrator",
+                "contact_email_domain":"@acision.com",
+                "contact_department":"Senior Solution Integrator"
+            },
+            {
+                "contact_name":"Ian Rennie",
+                "contact_jobtitle":"Chief Technology Officer",
+                "contact_email_domain":"@acision.com",
+                "contact_department":"Chief Technology Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"Abacus Group, Inc.",
+        "Company_location":"Waltham, Massachusetts, United States",
+        "Company_website":"http://www.abacusgroup.com",
+        "Company_webdomain":"abacusgroup.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$0 - 1M",
+        "contact_details":[
+            {
+                "contact_name":"Aileen Chadwick",
+                "contact_jobtitle":"Director Customer Support",
+                "contact_email_domain":"@abacusgroup.com",
+                "contact_department":"Director Customer Support"
+            }
+        ]
+    },
+    {
+        "Company_name":"Abc Compounding",
+        "Company_location":"Atlanta, Georgia, United States",
+        "Company_website":"http://www.abccompounding.com",
+        "Company_webdomain":"abccompounding.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$0 - 1M",
+        "contact_details":[
+            {
+                "contact_name":"Holly Knapp",
+                "contact_jobtitle":"Buyer/Planner",
+                "contact_email_domain":"@abccompounding.com",
+                "contact_department":"Buyer/Planner"
+            },
+            {
+                "contact_name":"Beth Cox",
+                "contact_jobtitle":"Accounts Receivable Specialist",
+                "contact_email_domain":"@abccompounding.com",
+                "contact_department":"Accounts Receivable Specialist"
+            },
+            {
+                "contact_name":"Greg Outland",
+                "contact_jobtitle":"Warehouse Distribution Manager",
+                "contact_email_domain":"@abccompounding.com",
+                "contact_department":"Warehouse Distribution Manager"
+            },
+            {
+                "contact_name":"Donna Short",
+                "contact_jobtitle":"Human Resources Manager",
+                "contact_email_domain":"@abccompounding.com",
+                "contact_department":"Human Resources Manager"
+            },
+            {
+                "contact_name":"Susan Williamson",
+                "contact_jobtitle":"Transportation Manager",
+                "contact_email_domain":"@abccompounding.com",
+                "contact_department":"Transportation Manager"
+            },
+            {
+                "contact_name":"Susan Williamson",
+                "contact_jobtitle":"Transportation Manager",
+                "contact_email_domain":"@abccompounding.com",
+                "contact_department":"Transportation Manager"
+            },
+            {
+                "contact_name":"Ron Shank",
+                "contact_jobtitle":"Director of Sales - Automotive",
+                "contact_email_domain":"@abccompounding.com",
+                "contact_department":"Director of Sales - Automotive"
+            },
+            {
+                "contact_name":"Susan Williamson",
+                "contact_jobtitle":"Transportation Manager",
+                "contact_email_domain":"@abccompounding.com",
+                "contact_department":"Transportation Manager"
+            },
+            {
+                "contact_name":"Susan Williamson",
+                "contact_jobtitle":"Transportation Manager",
+                "contact_email_domain":"@abccompounding.com",
+                "contact_department":"Transportation Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"Abilita",
+        "Company_location":"Fort Worth, Texas, United States",
+        "Company_website":"http://www.abilita.com",
+        "Company_webdomain":"abilita.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Brian Brawley",
+                "contact_jobtitle":"General Manager, Wireless/Mobility Specialist",
+                "contact_email_domain":"@abilita.com",
+                "contact_department":"General Manager, Wireless/Mobility Specialist"
+            },
+            {
+                "contact_name":"Dennis Smith",
+                "contact_jobtitle":"Owner",
+                "contact_email_domain":"@abilita.com",
+                "contact_department":"Owner"
+            },
+            {
+                "contact_name":"Mike Olszewski",
+                "contact_jobtitle":"Managing Principal",
+                "contact_email_domain":"@abilita.com",
+                "contact_department":"Managing Principal"
+            },
+            {
+                "contact_name":"Mike Olszewski",
+                "contact_jobtitle":"Managing Principal",
+                "contact_email_domain":"@abilita.com",
+                "contact_department":"Managing Principal"
+            },
+            {
+                "contact_name":"Ron Jensen",
+                "contact_jobtitle":"Managing Consultant",
+                "contact_email_domain":"@abilita.com",
+                "contact_department":"Managing Consultant"
+            },
+            {
+                "contact_name":"Ron Jensen",
+                "contact_jobtitle":"Managing Consultant",
+                "contact_email_domain":"@abilita.com",
+                "contact_department":"Managing Consultant"
+            },
+            {
+                "contact_name":"George Veach",
+                "contact_jobtitle":"Senior Consultant",
+                "contact_email_domain":"@abilita.com",
+                "contact_department":"Senior Consultant"
+            },
+            {
+                "contact_name":"Paul Anker",
+                "contact_jobtitle":"Managing Consultant, Member Board of Directors",
+                "contact_email_domain":"@abilita.com",
+                "contact_department":"Managing Consultant, Member Board of Directors"
+            },
+            {
+                "contact_name":"Paul Anker",
+                "contact_jobtitle":"Managing Consultant, Member Board of Directors",
+                "contact_email_domain":"@abilita.com",
+                "contact_department":"Managing Consultant, Member Board of Directors"
+            }
+        ]
+    },
+    {
+        "Company_name":"A.V. Lauttamus Communications, Inc.",
+        "Company_location":"Weirton,  West Virginia, United States",
+        "Company_website":"http://www.lauttamus.com",
+        "Company_webdomain":"lauttamus.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$10 - 50M",
+        "contact_details":[
+            {
+                "contact_name":"Rob Fish",
+                "contact_jobtitle":"Applications, RF, Sales Engineer",
+                "contact_email_domain":"@lauttamus.com",
+                "contact_department":"Applications, RF, Sales Engineer"
+            },
+            {
+                "contact_name":"Ron Chabalie",
+                "contact_jobtitle":"Electronics Engineering Technician",
+                "contact_email_domain":"@lauttamus.com",
+                "contact_department":"Electronics Engineering Technician"
+            },
+            {
+                "contact_name":"Rich Crumm",
+                "contact_jobtitle":"Technician",
+                "contact_email_domain":"@lauttamus.com",
+                "contact_department":"Technician"
+            },
+            {
+                "contact_name":"Wayne Wells",
+                "contact_jobtitle":"Business Account Manager",
+                "contact_email_domain":"@lauttamus.com",
+                "contact_department":"Business Account Manager"
+            },
+            {
+                "contact_name":"Wayne Wells",
+                "contact_jobtitle":"Business Account Manager",
+                "contact_email_domain":"@lauttamus.com",
+                "contact_department":"Business Account Manager"
+            },
+            {
+                "contact_name":"Roger Cowan",
+                "contact_jobtitle":"Senior Account Manager, National and Government Sales",
+                "contact_email_domain":"@lauttamus.com",
+                "contact_department":"Senior Account Manager, National and Government Sales"
+            },
+            {
+                "contact_name":"Jennifer Carr",
+                "contact_jobtitle":"Manager",
+                "contact_email_domain":"@lauttamus.com",
+                "contact_department":"Manager"
+            },
+            {
+                "contact_name":"John Gross",
+                "contact_jobtitle":"Sales Manager",
+                "contact_email_domain":"@lauttamus.com",
+                "contact_department":"Sales Manager"
+            },
+            {
+                "contact_name":"Cory Wilkerson",
+                "contact_jobtitle":"Director of Information Technology",
+                "contact_email_domain":"@lauttamus.com",
+                "contact_department":"Director of Information Technology"
+            }
+        ]
+    },
+    {
+        "Company_name":"A1 Teletronics",
+        "Company_location":"Saint Petersburg, Florida, United States",
+        "Company_website":"http://www.a1teletronics.com",
+        "Company_webdomain":"a1teletronics.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"250 - 1000",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"John Toppo",
+                "contact_jobtitle":"Pastor",
+                "contact_email_domain":"@a1teletronics.com",
+                "contact_department":"Pastor"
+            },
+            {
+                "contact_name":"Biswa Rai",
+                "contact_jobtitle":"Senior Pastor",
+                "contact_email_domain":"@a1teletronics.com",
+                "contact_department":"Senior Pastor"
+            },
+            {
+                "contact_name":"Kevin Alaniz",
+                "contact_jobtitle":"Minister / Senior Pastor",
+                "contact_email_domain":"@a1teletronics.com",
+                "contact_department":"Minister / Senior Pastor"
+            },
+            {
+                "contact_name":"Terry Hannigan",
+                "contact_jobtitle":"Sales Representative",
+                "contact_email_domain":"@a1teletronics.com",
+                "contact_department":"Sales Representative"
+            },
+            {
+                "contact_name":"Mark Kelley",
+                "contact_jobtitle":"Sales Executive",
+                "contact_email_domain":"@a1teletronics.com",
+                "contact_department":"Sales Executive"
+            },
+            {
+                "contact_name":"Mark Kelley",
+                "contact_jobtitle":"Sales Executive",
+                "contact_email_domain":"@a1teletronics.com",
+                "contact_department":"Sales Executive"
+            },
+            {
+                "contact_name":"Sara Decoeur",
+                "contact_jobtitle":"Account Executive",
+                "contact_email_domain":"@a1teletronics.com",
+                "contact_department":"Account Executive"
+            },
+            {
+                "contact_name":"Sara Decoeur",
+                "contact_jobtitle":"Account Executive",
+                "contact_email_domain":"@a1teletronics.com",
+                "contact_department":"Account Executive"
+            },
+            {
+                "contact_name":"Eric Smith",
+                "contact_jobtitle":"Senior Account Executive",
+                "contact_email_domain":"@a1teletronics.com",
+                "contact_department":"Senior Account Executive"
+            }
+        ]
+    },
+    {
+        "Company_name":"Abissnet",
+        "Company_location":"Tirana,  Qarku i Tiranes, Albania",
+        "Company_website":"http://www.abissnet.al",
+        "Company_webdomain":"abissnet.al",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":"$10 - 50M",
+        "contact_details":[
+            {
+                "contact_name":"Denisa Petre",
+                "contact_jobtitle":"Key Account Manager",
+                "contact_email_domain":"@abissnet.al",
+                "contact_department":"Key Account Manager"
+            },
+            {
+                "contact_name":"Marinela Yzeiraj",
+                "contact_jobtitle":"Sales Manager",
+                "contact_email_domain":"@abissnet.al",
+                "contact_department":"Sales Manager"
+            },
+            {
+                "contact_name":"Nikolin Kristo",
+                "contact_jobtitle":"Business Sales Manager",
+                "contact_email_domain":"@abissnet.al",
+                "contact_department":"Business Sales Manager"
+            },
+            {
+                "contact_name":"Anisa Jaupi",
+                "contact_jobtitle":"Business Sales Manager",
+                "contact_email_domain":"@abissnet.al",
+                "contact_department":"Business Sales Manager"
+            },
+            {
+                "contact_name":"Anisa Jaupi",
+                "contact_jobtitle":"Business Sales Manager",
+                "contact_email_domain":"@abissnet.al",
+                "contact_department":"Business Sales Manager"
+            },
+            {
+                "contact_name":"Denisa Sala",
+                "contact_jobtitle":"Sales Director",
+                "contact_email_domain":"@abissnet.al",
+                "contact_department":"Sales Director"
+            },
+            {
+                "contact_name":"Denisa Sala",
+                "contact_jobtitle":"Sales Director",
+                "contact_email_domain":"@abissnet.al",
+                "contact_department":"Sales Director"
+            },
+            {
+                "contact_name":"Vilma Lamce",
+                "contact_jobtitle":"Human Recourses Director",
+                "contact_email_domain":"@abissnet.al",
+                "contact_department":"Human Recourses Director"
+            },
+            {
+                "contact_name":"Vilma Lamce",
+                "contact_jobtitle":"Human Recourses Director",
+                "contact_email_domain":"@abissnet.al",
+                "contact_department":"Human Recourses Director"
+            }
+        ]
+    },
+    {
+        "Company_name":"ABIS",
+        "Company_location":"Grand Prairie, Texas, United States",
+        "Company_website":"http://www.abisinc.com",
+        "Company_webdomain":"abisinc.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$50 - 100M",
+        "contact_details":[
+            {
+                "contact_name":"Renaud Dumont",
+                "contact_jobtitle":"Dirigeant d\u2019entreprise chez",
+                "contact_email_domain":"@abisinc.com",
+                "contact_department":"Dirigeant d\u2019entreprise chez"
+            },
+            {
+                "contact_name":"Aseel Alkhalaf",
+                "contact_jobtitle":"Office Administrator",
+                "contact_email_domain":"@abisinc.com",
+                "contact_department":"Office Administrator"
+            },
+            {
+                "contact_name":"Online Business",
+                "contact_jobtitle":"Social Media Marketing Manager",
+                "contact_email_domain":"@abisinc.com",
+                "contact_department":"Social Media Marketing Manager"
+            },
+            {
+                "contact_name":"Amjad Obaida",
+                "contact_jobtitle":"Technical Manager",
+                "contact_email_domain":"@abisinc.com",
+                "contact_department":"Technical Manager"
+            },
+            {
+                "contact_name":"Jason Miller",
+                "contact_jobtitle":"Director of Sales",
+                "contact_email_domain":"@abisinc.com",
+                "contact_department":"Director of Sales"
+            },
+            {
+                "contact_name":"Kelly Golden",
+                "contact_jobtitle":"Vice President Solution Sales",
+                "contact_email_domain":"@abisinc.com",
+                "contact_department":"Vice President Solution Sales"
+            },
+            {
+                "contact_name":"G Ardhanareeswaran",
+                "contact_jobtitle":"Executive",
+                "contact_email_domain":"@*******@abisinc.com",
+                "contact_department":"Executive"
+            },
+            {
+                "contact_name":"Georgio Mulongo",
+                "contact_jobtitle":"General Manager",
+                "contact_email_domain":"@abisinc.com",
+                "contact_department":"General Manager"
+            },
+            {
+                "contact_name":"David Fizzano",
+                "contact_jobtitle":"Chief Executive Officer",
+                "contact_email_domain":"@abisinc.com",
+                "contact_department":"Chief Executive Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"AboveNet",
+        "Company_location":"White Plains, New york, United States",
+        "Company_website":"http://www.above.net",
+        "Company_webdomain":"above.net",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"> 100K",
+        "Company_revenue":"> $1B",
+        "contact_details":[
+            {
+                "contact_name":"Jeff Hormann",
+                "contact_jobtitle":"CISSP-Director of Information Security and Technical Operations",
+                "contact_email_domain":"@above.net",
+                "contact_department":"CISSP-Director of Information Security and Technical Operations"
+            },
+            {
+                "contact_name":"David Knell",
+                "contact_jobtitle":"Technical Director",
+                "contact_email_domain":"@above.net",
+                "contact_department":"Technical Director"
+            },
+            {
+                "contact_name":"Jeffrey Rock",
+                "contact_jobtitle":"Director Real Estate",
+                "contact_email_domain":"@above.net",
+                "contact_department":"Director Real Estate"
+            },
+            {
+                "contact_name":"John Jacquay",
+                "contact_jobtitle":"Senior Vice President Sales / Marketing",
+                "contact_email_domain":"@above.net",
+                "contact_department":"Senior Vice President Sales / Marketing"
+            },
+            {
+                "contact_name":"John Jacquay",
+                "contact_jobtitle":"Vice President Sales and Operations",
+                "contact_email_domain":"@above.net",
+                "contact_department":"Vice President Sales and Operations"
+            },
+            {
+                "contact_name":"John Feren",
+                "contact_jobtitle":"Vice President International",
+                "contact_email_domain":"@above.net",
+                "contact_department":"Vice President International"
+            },
+            {
+                "contact_name":"Platt Staunton",
+                "contact_jobtitle":"Owner",
+                "contact_email_domain":"@above.net",
+                "contact_department":"Owner"
+            },
+            {
+                "contact_name":"Warren Kaplan",
+                "contact_jobtitle":"Chief Executive Officer",
+                "contact_email_domain":"@above.net",
+                "contact_department":"Chief Executive Officer"
+            },
+            {
+                "contact_name":"Anna Thomas",
+                "contact_jobtitle":"Owner Interior Designer",
+                "contact_email_domain":"@above.net",
+                "contact_department":"Owner Interior Designer"
+            }
+        ]
+    },
+    {
+        "Company_name":"Abmnus",
+        "Company_location":"Bronxville, New york, United States",
+        "Company_website":"http://www.abmnus.com",
+        "Company_webdomain":"abmnus.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Adnan Shahid",
+                "contact_jobtitle":"Information Technology Infrastructure Engineer",
+                "contact_email_domain":"@abmnus.com",
+                "contact_department":"Information Technology Infrastructure Engineer"
+            },
+            {
+                "contact_name":"Mike Reyes",
+                "contact_jobtitle":"Business Development Executive",
+                "contact_email_domain":"@abmnus.com",
+                "contact_department":"Business Development Executive"
+            },
+            {
+                "contact_name":"Harold Lee",
+                "contact_jobtitle":"Sales Manager",
+                "contact_email_domain":"@abmnus.com",
+                "contact_department":"Sales Manager"
+            },
+            {
+                "contact_name":"Shahan Javaid",
+                "contact_jobtitle":"Account Executive",
+                "contact_email_domain":"@abmnus.com",
+                "contact_department":"Account Executive"
+            },
+            {
+                "contact_name":"M Tahir",
+                "contact_jobtitle":"Vice President Online Advertising Sales and Operations",
+                "contact_email_domain":"@*******@abmnus.com",
+                "contact_department":"Vice President Online Advertising Sales and Operations"
+            },
+            {
+                "contact_name":"Nissim Akiva",
+                "contact_jobtitle":"Executive Assistant to Chief Executive Officer",
+                "contact_email_domain":"@abmnus.com",
+                "contact_department":"Executive Assistant to Chief Executive Officer"
+            },
+            {
+                "contact_name":"Carmen Tejada",
+                "contact_jobtitle":"Account Specialist",
+                "contact_email_domain":"@abmnus.com",
+                "contact_department":"Account Specialist"
+            },
+            {
+                "contact_name":"Imdad Ali",
+                "contact_jobtitle":"President and Chief Executive Officer",
+                "contact_email_domain":"@abmnus.com",
+                "contact_department":"President and Chief Executive Officer"
+            },
+            {
+                "contact_name":"Joseph Akiva",
+                "contact_jobtitle":"Managing Partner",
+                "contact_email_domain":"@abmnus.com",
+                "contact_department":"Managing Partner"
+            }
+        ]
+    },
+    {
+        "Company_name":"Crexendo Business Solutions",
+        "Company_location":"Tempe, Arizona, United States",
+        "Company_website":"http://www.crexendo.com",
+        "Company_webdomain":"crexendo.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":"$10 - 50M",
+        "contact_details":[
+            {
+                "contact_name":"Brian Spitler",
+                "contact_jobtitle":"Vice President of Operations",
+                "contact_email_domain":"@crexendo.com",
+                "contact_department":"Vice President of Operations"
+            },
+            {
+                "contact_name":"David Krietzberg",
+                "contact_jobtitle":"Chief Administrative Officer",
+                "contact_email_domain":"@crexendo.com",
+                "contact_department":"Chief Administrative Officer"
+            },
+            {
+                "contact_name":"Dom Bria",
+                "contact_jobtitle":"Business Development Director",
+                "contact_email_domain":"@crexendo.com",
+                "contact_department":"Business Development Director"
+            },
+            {
+                "contact_name":"Joe Seeler",
+                "contact_jobtitle":"Controller",
+                "contact_email_domain":"@crexendo.com",
+                "contact_department":"Controller"
+            },
+            {
+                "contact_name":"Nishith Chudasama",
+                "contact_jobtitle":"Vice President of Engineering",
+                "contact_email_domain":"@crexendo.com",
+                "contact_department":"Vice President of Engineering"
+            },
+            {
+                "contact_name":"Jon Brinton",
+                "contact_jobtitle":"Chief Revenue Officer",
+                "contact_email_domain":"@crexendo.com",
+                "contact_department":"Chief Revenue Officer"
+            },
+            {
+                "contact_name":"Rich Braband",
+                "contact_jobtitle":"Managing Director of Strategic Accounts",
+                "contact_email_domain":"@crexendo.com",
+                "contact_department":"Managing Director of Strategic Accounts"
+            },
+            {
+                "contact_name":"Doug Gaylor",
+                "contact_jobtitle":"President and Chief Operating Officer",
+                "contact_email_domain":"@crexendo.com",
+                "contact_department":"President and Chief Operating Officer"
+            },
+            {
+                "contact_name":"Steve Mihaylo",
+                "contact_jobtitle":"Chairman and Chief Executive Officer",
+                "contact_email_domain":"@crexendo.com",
+                "contact_department":"Chairman and Chief Executive Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"A-V Services, Inc.",
+        "Company_location":"Fairfield, California, United States",
+        "Company_website":"http://www.avservices.net",
+        "Company_webdomain":"avservices.net",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Patricia Georgatos",
+                "contact_jobtitle":"Human Resources Director",
+                "contact_email_domain":"@avservices.net",
+                "contact_department":"Human Resources Director"
+            },
+            {
+                "contact_name":"Jan Adams",
+                "contact_jobtitle":"Director of Operations",
+                "contact_email_domain":"@avservices.net",
+                "contact_department":"Director of Operations"
+            },
+            {
+                "contact_name":"Andrew Musci",
+                "contact_jobtitle":"Director of Business Development",
+                "contact_email_domain":"@avservices.net",
+                "contact_department":"Director of Business Development"
+            },
+            {
+                "contact_name":"Harold Alvarez",
+                "contact_jobtitle":"Director of Client Services",
+                "contact_email_domain":"@avservices.net",
+                "contact_department":"Director of Client Services"
+            },
+            {
+                "contact_name":"Vincent Bruno",
+                "contact_jobtitle":"Vice President",
+                "contact_email_domain":"@avservices.net",
+                "contact_department":"Vice President"
+            },
+            {
+                "contact_name":"Stephen Inge",
+                "contact_jobtitle":"Vice President of Finance",
+                "contact_email_domain":"@avservices.net",
+                "contact_department":"Vice President of Finance"
+            },
+            {
+                "contact_name":"Pat Whelan",
+                "contact_jobtitle":"Vice President",
+                "contact_email_domain":"@avservices.net",
+                "contact_department":"Vice President"
+            },
+            {
+                "contact_name":"Joseph Shewchuk",
+                "contact_jobtitle":"Vice President of Engineering",
+                "contact_email_domain":"@avservices.net",
+                "contact_department":"Vice President of Engineering"
+            },
+            {
+                "contact_name":"Ralph Capria",
+                "contact_jobtitle":"Chief Executive Officer",
+                "contact_email_domain":"@avservices.net",
+                "contact_department":"Chief Executive Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"ABcom",
+        "Company_location":"Phoenix, Arizona, United States",
+        "Company_website":"http://www.abcomllc.com",
+        "Company_webdomain":"abcomllc.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"250 - 1000",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Madison Soukup",
+                "contact_jobtitle":"Staff Accountant",
+                "contact_email_domain":"@abcomllc.com",
+                "contact_department":"Staff Accountant"
+            },
+            {
+                "contact_name":"Sarah Mcnaughton",
+                "contact_jobtitle":"Staff Accountant and Payroll Specialist",
+                "contact_email_domain":"@abcomllc.com",
+                "contact_department":"Staff Accountant and Payroll Specialist"
+            },
+            {
+                "contact_name":"Lane Pelovsky",
+                "contact_jobtitle":"Information Technology Manager",
+                "contact_email_domain":"@abcomllc.com",
+                "contact_department":"Information Technology Manager"
+            },
+            {
+                "contact_name":"Jeff Krob",
+                "contact_jobtitle":"Project Coordinator",
+                "contact_email_domain":"@abcomllc.com",
+                "contact_department":"Project Coordinator"
+            },
+            {
+                "contact_name":"George Turner",
+                "contact_jobtitle":"Director of Operations",
+                "contact_email_domain":"@abcomllc.com",
+                "contact_department":"Director of Operations"
+            },
+            {
+                "contact_name":"Brandon Reynolds",
+                "contact_jobtitle":"Director of Project Management",
+                "contact_email_domain":"@abcomllc.com",
+                "contact_department":"Director of Project Management"
+            },
+            {
+                "contact_name":"Larry Soukup",
+                "contact_jobtitle":"Controller",
+                "contact_email_domain":"@abcomllc.com",
+                "contact_department":"Controller"
+            },
+            {
+                "contact_name":"Eric Casper",
+                "contact_jobtitle":"Director of Operations",
+                "contact_email_domain":"@abcomllc.com",
+                "contact_department":"Director of Operations"
+            },
+            {
+                "contact_name":"Greg Murphy",
+                "contact_jobtitle":"Vice President Operations",
+                "contact_email_domain":"@abcomllc.com",
+                "contact_department":"Vice President Operations"
+            }
+        ]
+    },
+    {
+        "Company_name":"Abadi Group",
+        "Company_location":"West Long Branch, New jersey, United States",
+        "Company_website":"http://www.abadigroup.com",
+        "Company_webdomain":"abadigroup.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"0 - 25",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Mahadika Kusuma",
+                "contact_jobtitle":"Riau pekan baru",
+                "contact_email_domain":"@abadigroup.com",
+                "contact_department":"Riau pekan baru"
+            },
+            {
+                "contact_name":"Gerard L",
+                "contact_jobtitle":"Marketing Specialist",
+                "contact_email_domain":"@abadigroup.com",
+                "contact_department":"Marketing Specialist"
+            },
+            {
+                "contact_name":"Michael Black",
+                "contact_jobtitle":"Senior Channel Manager",
+                "contact_email_domain":"@abadigroup.com",
+                "contact_department":"Senior Channel Manager"
+            },
+            {
+                "contact_name":"Nency Va",
+                "contact_jobtitle":"Manager",
+                "contact_email_domain":"@abadigroup.com",
+                "contact_department":"Manager"
+            },
+            {
+                "contact_name":"Erlysanzz Erlysanzz",
+                "contact_jobtitle":"Administrator",
+                "contact_email_domain":"@abadigroup.com",
+                "contact_department":"Administrator"
+            },
+            {
+                "contact_name":"Rangga Munawirawan",
+                "contact_jobtitle":"Site Manager",
+                "contact_email_domain":"@abadigroup.com",
+                "contact_department":"Site Manager"
+            },
+            {
+                "contact_name":"Cindy Weston",
+                "contact_jobtitle":"Office Manager",
+                "contact_email_domain":"@abadigroup.com",
+                "contact_department":"Office Manager"
+            },
+            {
+                "contact_name":"Abraham Abadi",
+                "contact_jobtitle":"Director, Partner Programs \u25ba Voice and Data Solutions \u25ba Expert",
+                "contact_email_domain":"@abadigroup.com",
+                "contact_department":"Director, Partner Programs \u25ba Voice and Data Solutions \u25ba Expert"
+            },
+            {
+                "contact_name":"Chuck Abadi",
+                "contact_jobtitle":"Owner",
+                "contact_email_domain":"@abadigroup.com",
+                "contact_department":"Owner"
+            }
+        ]
+    },
+    {
+        "Company_name":"A-CTI",
+        "Company_location":"Tualatin, Oregon, United States",
+        "Company_website":"http://www.answerconnect.com",
+        "Company_webdomain":"answerconnect.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Christopher Arnold",
+                "contact_jobtitle":"Systems Programmer",
+                "contact_email_domain":"@a-cti.com",
+                "contact_department":"Systems Programmer"
+            },
+            {
+                "contact_name":"Lori Torres",
+                "contact_jobtitle":"SL IA",
+                "contact_email_domain":"@a-cti.com",
+                "contact_department":"SL IA"
+            },
+            {
+                "contact_name":"Katie Adams",
+                "contact_jobtitle":"Lead Business Support Associate",
+                "contact_email_domain":"@a-cti.com",
+                "contact_department":"Lead Business Support Associate"
+            },
+            {
+                "contact_name":"Lois Sundling",
+                "contact_jobtitle":"Intake Advisor",
+                "contact_email_domain":"@a-cti.com",
+                "contact_department":"Intake Advisor"
+            },
+            {
+                "contact_name":"Donny Stevens",
+                "contact_jobtitle":"Assistant Operations Manager",
+                "contact_email_domain":"@a-cti.com",
+                "contact_department":"Assistant Operations Manager"
+            },
+            {
+                "contact_name":"Natalie Ruiz",
+                "contact_jobtitle":"Sales Manager",
+                "contact_email_domain":"@a-cti.com",
+                "contact_department":"Sales Manager"
+            },
+            {
+                "contact_name":"Lorissa Bowersox",
+                "contact_jobtitle":"Director, People Operations and Manager, Human Resources",
+                "contact_email_domain":"@a-cti.com",
+                "contact_department":"Director, People Operations and Manager, Human Resources"
+            },
+            {
+                "contact_name":"Monty Wirth",
+                "contact_jobtitle":"President",
+                "contact_email_domain":"@a-cti.com",
+                "contact_department":"President"
+            },
+            {
+                "contact_name":"Michael Payne",
+                "contact_jobtitle":"General Manager",
+                "contact_email_domain":"@a-cti.com",
+                "contact_department":"General Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"Lkn Communications Inc.",
+        "Company_location":"Concord, California, United States",
+        "Company_website":"http://www.acn.com",
+        "Company_webdomain":"acn.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"1K - 10K",
+        "Company_revenue":"$500M - 1B",
+        "contact_details":[
+            {
+                "contact_name":"Sol Torres",
+                "contact_jobtitle":"Chief Executive Officer",
+                "contact_email_domain":"@acninc.com",
+                "contact_department":"Chief Executive Officer"
+            },
+            {
+                "contact_name":"Delwander Brewer",
+                "contact_jobtitle":"Independent Business Owner",
+                "contact_email_domain":"@acninc.com",
+                "contact_department":"Independent Business Owner"
+            },
+            {
+                "contact_name":"Aj Henning",
+                "contact_jobtitle":"Independent Business Owner",
+                "contact_email_domain":"@acninc.com",
+                "contact_department":"Independent Business Owner"
+            },
+            {
+                "contact_name":"Prince Lee",
+                "contact_jobtitle":"Business Owner",
+                "contact_email_domain":"@acninc.com",
+                "contact_department":"Business Owner"
+            },
+            {
+                "contact_name":"Daphne Mckee",
+                "contact_jobtitle":"Business Owner",
+                "contact_email_domain":"@acninc.com",
+                "contact_department":"Business Owner"
+            },
+            {
+                "contact_name":"Fredy Perez",
+                "contact_jobtitle":"Independent Business Owner",
+                "contact_email_domain":"@acninc.com",
+                "contact_department":"Independent Business Owner"
+            },
+            {
+                "contact_name":"Pastor Walker",
+                "contact_jobtitle":"Independent Business Owner",
+                "contact_email_domain":"@acninc.com",
+                "contact_department":"Independent Business Owner"
+            },
+            {
+                "contact_name":"Isiah Jones",
+                "contact_jobtitle":"Independent Business Owner",
+                "contact_email_domain":"@acninc.com",
+                "contact_department":"Independent Business Owner"
+            },
+            {
+                "contact_name":"Radiance Bowden",
+                "contact_jobtitle":"ACN Independent Business Owner",
+                "contact_email_domain":"@acninc.com",
+                "contact_department":"ACN Independent Business Owner"
+            }
+        ]
+    },
+    {
+        "Company_name":"Acecape Inc.",
+        "Company_location":"Paramus, New jersey, United States",
+        "Company_website":"http://www.aceinnovative.com",
+        "Company_webdomain":"aceinnovative.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Joshua Fried",
+                "contact_jobtitle":"Adjunct",
+                "contact_email_domain":"@acedsl.com",
+                "contact_department":"Adjunct"
+            },
+            {
+                "contact_name":"Jason Krautle",
+                "contact_jobtitle":"Independent Contractor",
+                "contact_email_domain":"@acedsl.com",
+                "contact_department":"Independent Contractor"
+            }
+        ]
+    },
+    {
+        "Company_name":"Accuris Networks",
+        "Company_location":"Quincy, Massachusetts, United States",
+        "Company_website":"http://www.accuris-networks.com",
+        "Company_webdomain":"accuris-networks.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Ian Smith",
+                "contact_jobtitle":"Vice President of Engineering",
+                "contact_email_domain":"@accuris-networks.com",
+                "contact_department":"Vice President of Engineering"
+            }
+        ]
+    },
+    {
+        "Company_name":"AccuConference",
+        "Company_location":"Fort Worth, Texas, United States",
+        "Company_website":"http://www.accuconference.com",
+        "Company_webdomain":"accuconference.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"1K - 10K",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"George Page",
+                "contact_jobtitle":"Consultant",
+                "contact_email_domain":"@accuconference.com",
+                "contact_department":"Consultant"
+            },
+            {
+                "contact_name":"Rob Anderson",
+                "contact_jobtitle":"Admin",
+                "contact_email_domain":"@accuconference.com",
+                "contact_department":"Admin"
+            },
+            {
+                "contact_name":"Alan Gabbara",
+                "contact_jobtitle":"Authorized Agent",
+                "contact_email_domain":"@accuconference.com",
+                "contact_department":"Authorized Agent"
+            },
+            {
+                "contact_name":"Chilton Tippin",
+                "contact_jobtitle":"Technology Journalist",
+                "contact_email_domain":"@accuconference.com",
+                "contact_department":"Technology Journalist"
+            },
+            {
+                "contact_name":"Bricelda Beltran",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@accuconference.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Rafael Krouses",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@accuconference.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Tammy Flores",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@accuconference.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Ruham Anouti",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@accuconference.com",
+                "contact_department":"Account Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"Access Wireless Data Solutions",
+        "Company_location":"Lutz,  Florida, United States",
+        "Company_website":"http://www.accesswds.com",
+        "Company_webdomain":"accesswds.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":"$0 - 1M",
+        "contact_details":[
+            {
+                "contact_name":"Sharon Colasacco",
+                "contact_jobtitle":"Director of Marketing",
+                "contact_email_domain":"@accesswds.com",
+                "contact_department":"Director of Marketing"
+            },
+            {
+                "contact_name":"Samantha Ashley",
+                "contact_jobtitle":"Purchasing Manager",
+                "contact_email_domain":"@accesswds.com",
+                "contact_department":"Purchasing Manager"
+            },
+            {
+                "contact_name":"Dana Boyd",
+                "contact_jobtitle":"Project Manager",
+                "contact_email_domain":"@accesswds.com",
+                "contact_department":"Project Manager"
+            },
+            {
+                "contact_name":"Len Luttinger",
+                "contact_jobtitle":"Senior Advisor",
+                "contact_email_domain":"@accesswds.com",
+                "contact_department":"Senior Advisor"
+            },
+            {
+                "contact_name":"Rebecca Meador",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@accesswds.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Megan Lynch",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@accesswds.com",
+                "contact_department":"Account Manager"
+            }
+        ]
+    },
+    {
+        "Company_name":"Acacia Communications",
+        "Company_location":"Maynard, Massachusetts, United States",
+        "Company_website":"http://www.acacia-inc.com",
+        "Company_webdomain":"acacia-inc.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"250 - 1000",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Peter Chung",
+                "contact_jobtitle":"Board Member",
+                "contact_email_domain":"@acacia-inc.com",
+                "contact_department":"Board Member"
+            },
+            {
+                "contact_name":"Robert Bickle",
+                "contact_jobtitle":"Chief Quality Officer",
+                "contact_email_domain":"@acacia-inc.com",
+                "contact_department":"Chief Quality Officer"
+            },
+            {
+                "contact_name":"Janene Asgeirsson",
+                "contact_jobtitle":"Chief Legal Officer and Secretary",
+                "contact_email_domain":"@acacia-inc.com",
+                "contact_department":"Chief Legal Officer and Secretary"
+            },
+            {
+                "contact_name":"Benny Mikkelsen",
+                "contact_jobtitle":"Co-founder and Chief Technology Officer",
+                "contact_email_domain":"@acacia-inc.com",
+                "contact_department":"Co-founder and Chief Technology Officer"
+            },
+            {
+                "contact_name":"Raj Shanmugaraj",
+                "contact_jobtitle":"President and Chief Executive Officer",
+                "contact_email_domain":"@acacia-inc.com",
+                "contact_department":"President and Chief Executive Officer"
+            },
+            {
+                "contact_name":"Dave Mullert",
+                "contact_jobtitle":"Mechanical Engineering Manager",
+                "contact_email_domain":"@acacia-inc.com",
+                "contact_department":"Mechanical Engineering Manager"
+            },
+            {
+                "contact_name":"Bob Lodi",
+                "contact_jobtitle":"Senior Director, Supply Chain",
+                "contact_email_domain":"@acacia-inc.com",
+                "contact_department":"Senior Director, Supply Chain"
+            },
+            {
+                "contact_name":"Stan Reiss",
+                "contact_jobtitle":"Board Member",
+                "contact_email_domain":"@acacia-inc.com",
+                "contact_department":"Board Member"
+            },
+            {
+                "contact_name":"Renee Pianka",
+                "contact_jobtitle":"Chief Human Resource Officer",
+                "contact_email_domain":"@acacia-inc.com",
+                "contact_department":"Chief Human Resource Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"acphotonics",
+        "Company_location":"Santa Clara, California, United States",
+        "Company_website":"http://www.acphotonics.com",
+        "Company_webdomain":"acphotonics.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"1K - 10K",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Oo-Kaw Lim",
+                "contact_jobtitle":"Quality Manager and Senior Optical Engineer",
+                "contact_email_domain":"@acphotonics.com",
+                "contact_department":"Quality Manager and Senior Optical Engineer"
+            },
+            {
+                "contact_name":"Mark Demers",
+                "contact_jobtitle":"Technical Field Support Engineer",
+                "contact_email_domain":"@acphotonics.com",
+                "contact_department":"Technical Field Support Engineer"
+            },
+            {
+                "contact_name":"Marcella Jiang",
+                "contact_jobtitle":"Sales Support Coordinator",
+                "contact_email_domain":"@acphotonics.com",
+                "contact_department":"Sales Support Coordinator"
+            },
+            {
+                "contact_name":"Steve Becker",
+                "contact_jobtitle":"Senior VP, Sales and Marketing",
+                "contact_email_domain":"@acphotonics.com",
+                "contact_department":"Senior VP, Sales and Marketing"
+            },
+            {
+                "contact_name":"Richard Allen",
+                "contact_jobtitle":"Cost Accounting Manager",
+                "contact_email_domain":"@acphotonics.com",
+                "contact_department":"Cost Accounting Manager"
+            },
+            {
+                "contact_name":"Paul Martin",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@acphotonics.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Joyce Wang",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@acphotonics.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Henry Chang",
+                "contact_jobtitle":"Account Manager",
+                "contact_email_domain":"@acphotonics.com",
+                "contact_department":"Account Manager"
+            },
+            {
+                "contact_name":"Christina Qu",
+                "contact_jobtitle":"Vice President-Sales",
+                "contact_email_domain":"@acphotonics.com",
+                "contact_department":"Vice President-Sales"
+            }
+        ]
+    },
+    {
+        "Company_name":"ACBB-BITS LLC",
+        "Company_location":"Newark, New jersey, United States",
+        "Company_website":"http://www.bits.us",
+        "Company_webdomain":"bits.us",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Elizabeth Castillo",
+                "contact_jobtitle":"Communications Coordinator",
+                "contact_email_domain":"@bitsnetwork.com",
+                "contact_department":"Communications Coordinator"
+            },
+            {
+                "contact_name":"Tasha Moore",
+                "contact_jobtitle":"Human Resource Manager, Generalist",
+                "contact_email_domain":"@bitsnetwork.com",
+                "contact_department":"Human Resource Manager, Generalist"
+            },
+            {
+                "contact_name":"Anney Lester",
+                "contact_jobtitle":"Marketing/Operations-Director/Vice President",
+                "contact_email_domain":"@bitsnetwork.com",
+                "contact_department":"Marketing/Operations-Director/Vice President"
+            },
+            {
+                "contact_name":"Jerald Murphy",
+                "contact_jobtitle":"Chief Executive Officer",
+                "contact_email_domain":"@bitsnetwork.com",
+                "contact_department":"Chief Executive Officer"
+            },
+            {
+                "contact_name":"Chuck Daniels",
+                "contact_jobtitle":"Chief Executive Officer",
+                "contact_email_domain":"@bitsnetwork.com",
+                "contact_department":"Chief Executive Officer"
+            },
+            {
+                "contact_name":"Ryan Patrick",
+                "contact_jobtitle":"Chief Technology Officer",
+                "contact_email_domain":"@bitsnetwork.com",
+                "contact_department":"Chief Technology Officer"
+            },
+            {
+                "contact_name":"Christian Ericson",
+                "contact_jobtitle":"Chief Marketing Officer/Head of Sales",
+                "contact_email_domain":"@bitsnetwork.com",
+                "contact_department":"Chief Marketing Officer/Head of Sales"
+            },
+            {
+                "contact_name":"Mari Buckwalter",
+                "contact_jobtitle":"Chief Financial Officer",
+                "contact_email_domain":"@bitsnetwork.com",
+                "contact_department":"Chief Financial Officer"
+            }
+        ]
+    },
+    {
+        "Company_name":"ABR Telecom",
+        "Company_location":"Braslia, Disitro Federal, Brazil",
+        "Company_website":"http://www.abrtelecom.com.br",
+        "Company_webdomain":"abrtelecom.com.br",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"100 - 250",
+        "Company_revenue":"$1 - 10M",
+        "contact_details":[
+            {
+                "contact_name":"Carlos Pelegrini",
+                "contact_jobtitle":"Conselheiro",
+                "contact_email_domain":"@abrtelecom.com.br",
+                "contact_department":"Conselheiro"
+            },
+            {
+                "contact_name":"Anderson Pires",
+                "contact_jobtitle":"Consultor",
+                "contact_email_domain":"@abrtelecom.com.br",
+                "contact_department":"Consultor"
+            }
+        ]
+    },
+    {
+        "Company_name":"A P G Inc",
+        "Company_location":"Atlanta, Georgia, United States",
+        "Company_website":"http://www.apg-inc.com",
+        "Company_webdomain":"apg-inc.com",
+        "Company_industry":"Telecommunications",
+        "Company_employee_size":"25 - 100",
+        "Company_revenue":null,
+        "contact_details":[
+            {
+                "contact_name":"Christine Santaite",
+                "contact_jobtitle":"Regional Manager",
+                "contact_email_domain":"@apg-inc.com",
+                "contact_department":"Regional Manager"
+            },
+            {
+                "contact_name":"Marcus Crivelli",
+                "contact_jobtitle":"Maintenance Technician",
+                "contact_email_domain":"@apg-inc.com",
+                "contact_department":"Maintenance Technician"
+            },
+            {
+                "contact_name":"Steve Deluco",
+                "contact_jobtitle":"Associate Broker and Realtor",
+                "contact_email_domain":"@apg-inc.com",
+                "contact_department":"Associate Broker and Realtor"
+            }
+        ]
+    }
+]

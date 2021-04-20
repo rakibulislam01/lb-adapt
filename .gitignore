@@ -130,3 +130,8 @@ dmypy.json
 
 # Pycharm
 .idea
+
+# Test file
+/adapt/command_list.txt
+/adapt/adapt/spiders/adapt_apider_company_profiles_v1.py
+/adapt/adapt/spiders/adapt_apider_company_profiles_v2.py
