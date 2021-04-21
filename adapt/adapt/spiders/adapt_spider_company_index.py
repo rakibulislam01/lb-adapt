@@ -6,6 +6,12 @@ class AdaptSpider(scrapy.Spider):
     name = "company_index"
     download_delay = 5
 
+    custom_settings = {
+        'ITEM_PIPELINES': {
+            'adapt.pipelines.AdaptPipeline': 300,
+        }
+    }
+
     def start_requests(self):
         urls = [
             'https://www.adapt.io/directory/industry/telecommunications/A-1',

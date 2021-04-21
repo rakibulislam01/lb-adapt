@@ -6,7 +6,13 @@ from urllib.parse import urlparse
 
 class AdaptSpider(scrapy.Spider):
     name = "company_profile"
-    download_delay = 2
+    download_delay = 1
+
+    custom_settings = {
+        'ITEM_PIPELINES': {
+            'adapt.pipelines.CompanyProfilePipeline': 300,
+        }
+    }
 
     def start_requests(self):
         urls = [
@@ -46,13 +52,13 @@ class AdaptSpider(scrapy.Spider):
             '.CompanyTopInfo_revenueIcon__1acbf+ .CompanyTopInfo_contentWrapper__2Jkic .CompanyTopInfo_infoValue__27_Yo ::text').extract_first()
         company_employee_size = response.css(
             '.CompanyTopInfo_headCountIcon__1-4b-+ .CompanyTopInfo_contentWrapper__2Jkic .CompanyTopInfo_infoValue__27_Yo ::text').extract_first()
-        company_profile['Company_name'] = company_name
-        company_profile['Company_location'] = ''.join(company_location)
-        company_profile['Company_website'] = company_website
-        company_profile['Company_webdomain'] = company_webdomain
-        company_profile['Company_industry'] = company_industry
-        company_profile['Company_employee_size'] = company_employee_size
-        company_profile['Company_revenue'] = company_revenue
+        company_profile['company_name'] = company_name
+        company_profile['company_location'] = ''.join(company_location)
+        company_profile['company_website'] = company_website
+        company_profile['company_webdomain'] = company_webdomain
+        company_profile['company_industry'] = company_industry
+        company_profile['company_employee_size'] = company_employee_size
+        company_profile['company_revenue'] = company_revenue
 
         contact_list_link = response.xpath('//*[@id="__next"]/div/main/div[2]/div[2]/div[1]//a/@href').extract()
 

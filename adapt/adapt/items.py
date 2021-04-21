@@ -13,11 +13,11 @@ class CompanyIndexItem(scrapy.Item):
 
 
 class CompanyProfileItem(scrapy.Item):
-    Company_name = scrapy.Field()
-    Company_location = scrapy.Field()
-    Company_website = scrapy.Field()
-    Company_webdomain = scrapy.Field()
-    Company_industry = scrapy.Field()
-    Company_employee_size = scrapy.Field()
-    Company_revenue = scrapy.Field()
+    company_name = scrapy.Field()
+    company_location = scrapy.Field()
+    company_website = scrapy.Field()
+    company_webdomain = scrapy.Field()
+    company_industry = scrapy.Field()
+    company_employee_size = scrapy.Field()
+    company_revenue = scrapy.Field()
     contact_details = scrapy.Field()
