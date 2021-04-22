@@ -11,7 +11,7 @@ import pymysql
 
 class AdaptPipeline(object):
     """
-    Company profile pipeline
+    Company index pipeline
     """
 
     def __init__(self):

@@ -5,9 +5,15 @@ from urllib.parse import urlparse
 
 
 class AdaptSpider(scrapy.Spider):
+    """
+    You can scrape full adapt website using this spider.
+    First collect all alphabet link.
+    Then traverse all the link and pagination and collect data
+    """
     name = "company_profile"
     download_delay = 1
 
+    # setup custom pipeline
     custom_settings = {
         'ITEM_PIPELINES': {
             'adapt.pipelines.CompanyProfilePipeline': 300,
@@ -21,8 +27,8 @@ class AdaptSpider(scrapy.Spider):
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
+    # collect all company link alphabetically from [A-Z]
     # def parse_(self, response):
-    #     # collect all company link alphabetically from [A-Z]
     #     company_source = response.css('.DirectoryTopInfo_linkItemWrapper__2MyQQ a')
     #     for source in company_source:
     #         source_url = source.css('::attr(href)').extract_first()
@@ -30,14 +36,16 @@ class AdaptSpider(scrapy.Spider):
 
     def parse(self, response):
         company_source = response.css('.DirectoryList_linkItemWrapper__3F2UE a')
+        # collect all company profile url
         for source in company_source:
             source_url = source.css('::attr(href)').extract_first()
             yield response.follow(source_url, callback=self.company_profile)
-        # Collect all company link from each alphabet
+        # Collect all company link from each alphabet: pagination
         # next_page = response.css('.undefined ::attr(href)').extract_first()
         # if next_page:
         #     yield response.follow(next_page, callback=self.company_link)
 
+    # extract company general information
     def company_profile(self, response):
         company_profile = CompanyProfileItem()
         company_name = response.css('h1 ::text').extract_first()
@@ -52,6 +60,8 @@ class AdaptSpider(scrapy.Spider):
             '.CompanyTopInfo_revenueIcon__1acbf+ .CompanyTopInfo_contentWrapper__2Jkic .CompanyTopInfo_infoValue__27_Yo ::text').extract_first()
         company_employee_size = response.css(
             '.CompanyTopInfo_headCountIcon__1-4b-+ .CompanyTopInfo_contentWrapper__2Jkic .CompanyTopInfo_infoValue__27_Yo ::text').extract_first()
+
+        # store data in item
         company_profile['company_name'] = company_name
         company_profile['company_location'] = ''.join(company_location)
         company_profile['company_website'] = company_website
@@ -60,8 +70,10 @@ class AdaptSpider(scrapy.Spider):
         company_profile['company_employee_size'] = company_employee_size
         company_profile['company_revenue'] = company_revenue
 
+        # collect all contact link
         contact_list_link = response.xpath('//*[@id="__next"]/div/main/div[2]/div[2]/div[1]//a/@href').extract()
 
+        # send meta data
         con = 'https://www.adapt.io/company/abr-telecom'
         request = scrapy.Request(con, callback=self.contact_link)
         request.meta['company_profile'] = company_profile
@@ -70,6 +82,8 @@ class AdaptSpider(scrapy.Spider):
         request.meta['contact_detail_len'] = len(contact_list_link)
         yield request
 
+    # store company general information.
+    # middle function uses for traverse all contact details page.
     def contact_link(self, response):
         company_profile = response.meta['company_profile']
         contact_list_link = response.meta['contact_list_link']
@@ -78,6 +92,7 @@ class AdaptSpider(scrapy.Spider):
         if contact_detail is None:
             contact_detail = []
 
+        # traverse all contact profile.
         for link in contact_list_link:
             request = scrapy.Request(link, callback=self.contact_details)
             request.meta['company_profile'] = company_profile
@@ -86,6 +101,7 @@ class AdaptSpider(scrapy.Spider):
             request.meta['contact_detail_len'] = contact_detail_len
             yield request
 
+    # scrape all contact information for each country profile.
     def contact_details(self, response):
         company_profile = response.meta['company_profile']
         contact_list_link = response.meta['contact_list_link']
@@ -112,6 +128,7 @@ class AdaptSpider(scrapy.Spider):
             contact_email_domain = re.search('@.*', contact_email_domain).group()
             contact_email_domain = contact_email_domain if contact_email_domain else ''
 
+        # a dictionary for store contact details
         contact_details = [{
             "contact_name": contact_name,
             "contact_jobtitle": contact_jobtitle,
@@ -120,9 +137,13 @@ class AdaptSpider(scrapy.Spider):
         }]
         contact_detail.extend(contact_details)
 
+        # constant link
         con = 'https://www.adapt.io/company/abr-telecom'
+
+        # remove contact link that already scrape
         if response.url in contact_list_link: contact_list_link.remove(response.url)
 
+        # save data when scrape all contact details
         if contact_detail_len == len(contact_detail):
             company_profile['contact_details'] = contact_detail
             yield company_profile
