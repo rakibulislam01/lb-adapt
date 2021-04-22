@@ -39,9 +39,11 @@ parse them in the desired format and save them in JSON file.
 │   └── scrapy.cfg
 ├── README.md
 └── requirements.txt
-
-4 directories, 15 files
 ```
+### Here I wrote two spiders:
+1. ```adapt_spider_company_index.py``` for crawl all company name and url and save data into ```company_index.json``` file.
+2. ```adapt_apider_company_profiles.py``` for crawl company profile with contact details. And save data into ```company_profile.json``` file.
+
 
 **All scrape data you can find here:** 
 1. [Company index data](adapt/data/company_index.json)
