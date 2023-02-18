@@ -6,7 +6,7 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-import pymysql
+import psycopg2
 
 
 class AdaptPipeline(object):
@@ -23,7 +23,7 @@ class AdaptPipeline(object):
         passwd = 'lbadapt'
 
         # Open database connection
-        self.db_conn = pymysql.connect(host=host, port=port, db=db, user=user, passwd=passwd, charset='utf8')
+        self.db_conn = psycopg2.connect(host=host, port=port, dbname=db, user=user, password=passwd)
         # Create cursor object
         self.db_cur = self.db_conn.cursor()
 
@@ -54,12 +54,12 @@ class CompanyProfilePipeline(object):
         # Database name, connection to this machine MySQL, port number, MySQL user name, MySQL user password
         db = 'lbadapt'
         host = 'localhost'
-        port = 3306
+        port = 5432
         user = 'lbadapt'
         passwd = 'lbadapt'
 
         # Open database connection
-        self.db_conn = pymysql.connect(host=host, port=port, db=db, user=user, passwd=passwd, charset='utf8')
+        self.db_conn = psycopg2.connect(host=host, port=port, dbname=db, user=user, password=passwd)
         # Create cursor object
         self.db_cur = self.db_conn.cursor()
 

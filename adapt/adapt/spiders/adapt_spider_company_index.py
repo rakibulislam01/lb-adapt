@@ -19,7 +19,7 @@ class AdaptSpider(scrapy.Spider):
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
-    def parse(self, response):
+    def parse(self, response, **kwargs):
         # collect all company link alphabetically from [A-Z]
         company_source = response.css('.DirectoryTopInfo_linkItemWrapper__2MyQQ a')
         for source in company_source:

@@ -34,8 +34,9 @@ class AdaptSpider(scrapy.Spider):
     #         source_url = source.css('::attr(href)').extract_first()
     #         yield scrapy.Request(source_url, callback=self.company_link)
 
-    def parse(self, response):
+    def parse(self, response, **kwargs):
         company_source = response.css('.DirectoryList_linkItemWrapper__3F2UE a')
+        print(f"{company_source} Test message!")
         # collect all company profile url
         for source in company_source:
             source_url = source.css('::attr(href)').extract_first()
@@ -80,6 +81,7 @@ class AdaptSpider(scrapy.Spider):
         request.meta['contact_list_link'] = contact_list_link
         request.meta['contact_detail'] = []
         request.meta['contact_detail_len'] = len(contact_list_link)
+        print(company_profile)
         yield request
 
     # store company general information.
